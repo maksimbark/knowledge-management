@@ -24,7 +24,7 @@ with open("Stats/2018-07-10-pure_param_stats_driver1.csv") as file1:
         i += 1
         if i == 1:
             recordNum += 1
-            recordSum += calculateDanger(float(line["Acceleration(m/s2)"].replace(',','.')))
+            recordSum += calculateDanger(float(line["AccelerationXYZ"].split(',')[2]))
             currentActionPositive = float(line["AccelerationXYZ"].split(',')[2]) >= 0
         else:
             tmp = float(line["AccelerationXYZ"].split(',')[2]) >= 0
@@ -36,10 +36,8 @@ with open("Stats/2018-07-10-pure_param_stats_driver1.csv") as file1:
                 currentActionPositive = tmp
 
             recordNum += 1
-            recordSum += calculateDanger(float(line["Acceleration(m/s2)"].replace(',','.')))
+            recordSum += calculateDanger(float(line["AccelerationXYZ"].split(',')[2]))
 dangerCoeffNum += 1
 dangerCoeffSum += recordSum / recordNum
 
 print(dangerCoeffSum / dangerCoeffNum)
-
-
