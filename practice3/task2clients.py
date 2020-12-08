@@ -5,7 +5,6 @@ from smart_m3.m3_kp_api import *
 from time import sleep
 
 kp = m3_kp_api()
-kp.clean_sib()
 
 def client(agentname, color):
     class KP_Handler_Client:
