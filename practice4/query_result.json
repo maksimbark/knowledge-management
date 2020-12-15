@@ -1,0 +1,7154 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.8 7d656e78",
+  "osm3s": {
+    "timestamp_osm_base": "2020-12-15T20:28:02Z",
+    "timestamp_areas_base": "2020-12-15T19:26:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 238809,
+  "lat": 60.1894950,
+  "lon": 29.7001959,
+  "tags": {
+    "int_name": "Shoes unknown summer resident (2009)",
+    "name": "Башмаки неизвестного дачника (2009)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 21751966,
+  "lat": 60.0392020,
+  "lon": 30.2964601,
+  "tags": {
+    "name": "Озёрная",
+    "opening_hours": "Th-Su 11:00-15:00",
+    "operator": "Малая Октябрьская железная дорога",
+    "phone": "+7 812 4575149",
+    "platforms": "2",
+    "railway": "station",
+    "tourism": "attraction",
+    "train": "yes",
+    "website": "http://dorogaru.info/mzd/"
+  }
+},
+{
+  "type": "node",
+  "id": 249082841,
+  "lat": 59.9363994,
+  "lon": 30.3022096,
+  "tags": {
+    "alt_name": "Медный всадник",
+    "alt_name:en": "Bronze Horseman",
+    "alt_name:fi": "Vaskiratsastaja",
+    "historic": "monument",
+    "memorial:subject": "Пётр Алексеевич Романов",
+    "name": "Петру Великому",
+    "name:de": "Peter der Große",
+    "name:en": "Peter the Great",
+    "name:es": "Jinete de Bronce de Pedro I el Grande",
+    "name:fa": "اسب سوار برنزی (پیتر کبیر)",
+    "name:fi": "Pietari Suuri",
+    "name:fr": "Le cavalier de bronze",
+    "name:ru": "Петру Великому",
+    "name:zh": "彼得大帝青铜骑士像",
+    "subject:wikipedia": "ru:Пётр I",
+    "tourism": "attraction",
+    "wheelchair": "yes",
+    "wikidata": "Q672444",
+    "wikipedia": "ru:Медный всадник"
+  }
+},
+{
+  "type": "node",
+  "id": 302252549,
+  "lat": 59.8689025,
+  "lon": 30.3195512,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "statue",
+    "name": "Памятник Чернышевскому",
+    "name:de": "Tschernyschewski-Denkmal",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 311367818,
+  "lat": 59.9316187,
+  "lon": 30.2719996,
+  "tags": {
+    "contact:phone": "+7 812 3273506",
+    "contact:vk": "https://vk.com/roerich",
+    "contact:website": "http://roerich.spb.ru",
+    "name": "Музей-институт семьи Рерихов",
+    "opening_hours": "We 14:00-21:00; Th-Su 11:00-18:00; Th[-1] off",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 334791500,
+  "lat": 59.9459073,
+  "lon": 30.3298623,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "statue",
+    "name": "Памятник Суворову",
+    "name:de": "Suworow-Denkmal",
+    "name:en": "Suvorov Monument",
+    "name:zh": "苏沃洛夫纪念碑",
+    "tourism": "attraction",
+    "wikidata": "Q4343361",
+    "wikipedia": "ru:Памятник Суворову (Санкт-Петербург)"
+  }
+},
+{
+  "type": "node",
+  "id": 339816775,
+  "lat": 59.9556849,
+  "lon": 30.3099079,
+  "tags": {
+    "name": "Цветочные часы",
+    "name:de": "Blumenuhr",
+    "name:en": "Floral Clock",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 425285546,
+  "lat": 59.9891985,
+  "lon": 29.7623273,
+  "tags": {
+    "name": "Кронштадтский футшток",
+    "tourism": "attraction",
+    "wikidata": "Q1515107",
+    "wikipedia": "ru:Кронштадтский футшток"
+  }
+},
+{
+  "type": "node",
+  "id": 446272328,
+  "lat": 59.9559811,
+  "lon": 30.3503920,
+  "tags": {
+    "description:en": "monument to victims of Soviet-Finnish War",
+    "historic": "memorial",
+    "inscription": "Вечная память павшим на Советско-Финляндской войне 1939-1940",
+    "memorial": "war_memorial",
+    "memorial:conflict": "WW2",
+    "name": "жертвам Советско-Финляндской войны",
+    "name:en": "Soviet-Finnish War Memorial",
+    "name:ru": "памятник жертвам Советско-Финляндской войны",
+    "name:zh": "纪念碑的受害者苏芬兰的战争",
+    "subject:wikidata": "Q134949",
+    "subject:wikipedia": "ru:Советско-финляндская война (1939—1940)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 477027518,
+  "lat": 59.9372583,
+  "lon": 30.3316215,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "statue",
+    "name": "Пушкин",
+    "name:de": "Puschkin",
+    "name:en": "Pushkin",
+    "name:zh": "普希金銅像",
+    "tourism": "attraction",
+    "wheelchair": "yes",
+    "wikidata": "Q9396452",
+    "wikipedia": "ru:Памятник А. С. Пушкину (Санкт-Петербург, площадь Искусств)"
+  }
+},
+{
+  "type": "node",
+  "id": 501596014,
+  "lat": 59.9518506,
+  "lon": 30.3212778,
+  "tags": {
+    "name": "Музей космонавтики и ракетной техники",
+    "name:de": "Museum für Raketenbau und Raumfahrt",
+    "name:en": "Museum of Cosmonautics and Rocket Technology",
+    "name:fr": "Musée de l'espace et des fusées",
+    "name:ru": "Музей космонавтики и ракетной техники",
+    "name:zh": "宇宙航行和火箭技術博物館",
+    "opening_hours": "Th-Tu 11:00-19:00; We off",
+    "phone": "+7 812 2300332",
+    "tourism": "museum",
+    "website": "http://www.museum.ru/M223",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 507091461,
+  "lat": 59.9273798,
+  "lon": 30.3506548,
+  "tags": {
+    "addr:housenumber": "5/2",
+    "addr:street": "Кузнечный переулок",
+    "contact:vk": "https://vk.com/dostoevskymuseum",
+    "name": "Музей Федора Михайловича Достоевского",
+    "name:es": "museo casa de Dostoevsky",
+    "name:zh": "陀思妥耶夫斯基博物馆",
+    "opening_hours": "Tu,Th-Su 11:00-18:00; We 13:00-20:00",
+    "tourism": "museum",
+    "website": "http://www.md.spb.ru/",
+    "wikidata": "Q2487646"
+  }
+},
+{
+  "type": "node",
+  "id": 649226100,
+  "lat": 59.7461477,
+  "lon": 30.5933288,
+  "tags": {
+    "name": "Музей истории Ижорского завода",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 649424601,
+  "lat": 59.9716153,
+  "lon": 30.3227528,
+  "tags": {
+    "addr:door": "33",
+    "contact:email": "radioemc@yandex.ru",
+    "contact:phone": "+7 812 2345900",
+    "contact:website": "http://www.eltech.ru/ru/universitet/istoriya-universiteta/memorialnyy-muzey-as-popova",
+    "level": "2",
+    "name": "Музей-квартира А. С. Попова",
+    "opening_hours": "Mo-Fr 11:00-16:30",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 659405364,
+  "lat": 59.9830279,
+  "lon": 30.3989809,
+  "tags": {
+    "name": "Музей подводных сил РФ",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 694055515,
+  "lat": 60.0255006,
+  "lon": 29.6743107,
+  "tags": {
+    "historic": "ruins",
+    "name": "Форт Шанц",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 737972711,
+  "lat": 59.9903423,
+  "lon": 30.3993701,
+  "tags": {
+    "description": "Виктор Робертович Цой (21 июня 1962 г. — 15 августа 1990 г.) — советский рок-музыкант, автор песен, художник. Основатель и бессменный лидер группы «Кино», в которой пел, играл на гитаре, писал музыку и стихи.",
+    "historic": "memorial",
+    "name": "Могила Виктора Цоя",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 781739299,
+  "lat": 59.7448848,
+  "lon": 30.3917834,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 805518386,
+  "lat": 59.9351378,
+  "lon": 30.2355489,
+  "tags": {
+    "name": "Галерея Академии Художеств",
+    "tourism": "museum",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 878883764,
+  "lat": 59.9245876,
+  "lon": 30.3132306,
+  "tags": {
+    "addr:housenumber": "50",
+    "addr:street": "Садовая улица",
+    "contact:vk": "https://vk.com/cmrt1813",
+    "name": "Центральный музей железнодорожного транспорта",
+    "name:fr": "Musée du transport ferroviaire",
+    "opening_hours": "Mo-Su 10:30-17:30",
+    "phone": "+7 812 3151476",
+    "subject": "railway",
+    "tourism": "museum",
+    "website": "http://cmzt.narod.ru/",
+    "wikidata": "Q4504319"
+  }
+},
+{
+  "type": "node",
+  "id": 910855198,
+  "lat": 59.9265814,
+  "lon": 30.3000979,
+  "tags": {
+    "alt_name": "Малый Манеж",
+    "contact:vk": "https://vk.com/museumxx_xxi",
+    "name": "Музей искусства Санкт-Петербурга XX-XXI веков",
+    "opening_hours": "Tu,Th,Fr 14:00-20:00; We 14:00-21:00; Sa,Su 12:00-20:00",
+    "tourism": "museum",
+    "website": "http://www.mispxx-xxi.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 915470139,
+  "lat": 59.9870141,
+  "lon": 29.7908791,
+  "tags": {
+    "amenity": "fountain",
+    "name": "Водовоз",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 915470360,
+  "lat": 59.9945323,
+  "lon": 29.7661631,
+  "tags": {
+    "name": "Дерево желаний",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 915470394,
+  "lat": 59.9961341,
+  "lon": 29.7613316,
+  "tags": {
+    "addr:city": "Кронштадт",
+    "addr:housenumber": "21",
+    "addr:street": "Посадская улица",
+    "name": "Квартира святого Иоанна Кронштадтского",
+    "name:en": "Museum-apartment of St. John of Kronstadt",
+    "opening_hours": "Mo,We,Th,Fr,Sa,Su 12:00-17:00",
+    "phone": "+7 812 3117745",
+    "tourism": "museum",
+    "wikidata": "Q561659",
+    "wikipedia": "ru:Иоанн Кронштадтский"
+  }
+},
+{
+  "type": "node",
+  "id": 946092520,
+  "lat": 59.7715872,
+  "lon": 30.3261080,
+  "tags": {
+    "name": "Музей Пулковской обсерватории",
+    "name:de": "Museum des Pulkowo-Observatoriums",
+    "name:en": "Museum of the Pulkovo Observatory",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 951709240,
+  "lat": 59.9368068,
+  "lon": 30.2856531,
+  "tags": {
+    "name": "Музей-квартира академика И.П. Павлова",
+    "name:en": "Pavlov Memorial Museum",
+    "name:es": "museo Pavlov",
+    "reservation": "required",
+    "subject": "Иван Петрович Павлов",
+    "subject:wikidata": "Q42985",
+    "tourism": "museum",
+    "website": "http://museum.infran.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 951709427,
+  "lat": 59.9381399,
+  "lon": 30.2836664,
+  "tags": {
+    "name": "Башня грифонов",
+    "name:en": "Grifons tower",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 967803949,
+  "lat": 59.9894164,
+  "lon": 29.7680825,
+  "tags": {
+    "name": "Место испытаний первого в мире радиоприемника А.С. Поповым",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 973600021,
+  "lat": 59.9711806,
+  "lon": 30.3229412,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:country": "RU",
+    "addr:housenumber": "2",
+    "addr:postcode": "197376",
+    "addr:street": "улица Профессора Попова",
+    "contact:phone": "+7 812 2340673",
+    "contact:website": "http://www.binran.ru/botmus/",
+    "name": "Ботанический музей БИН",
+    "name:de": "Botanisches Museum",
+    "name:en": "Botanical Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 979037130,
+  "lat": 59.9425628,
+  "lon": 30.2796329,
+  "tags": {
+    "name": "Новый музей",
+    "note": "так называется? - так написано на табличке",
+    "opening_hours": "We-Fr 11:00-19:00; Sa-Su 12:00-20:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 993613428,
+  "lat": 59.9884965,
+  "lon": 30.1279862,
+  "tags": {
+    "historic": "ruins",
+    "name": "Гром-камень",
+    "name:de": "Donnerstein",
+    "name:en": "Thunder Stone",
+    "natural": "stone",
+    "opening_hours": "24/7",
+    "tourism": "attraction",
+    "wheelchair": "limited",
+    "wikidata": "Q24930021",
+    "wikipedia": "ru:Гром-камень"
+  }
+},
+{
+  "type": "node",
+  "id": 1033403758,
+  "lat": 59.9524904,
+  "lon": 30.3760966,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1123474657,
+  "lat": 59.9321040,
+  "lon": 30.3084347,
+  "tags": {
+    "height": "6",
+    "historic": "monument",
+    "material": "bronze",
+    "memorial": "statue",
+    "name": "Николай I",
+    "name:de": "Nikolaus I.",
+    "name:en": "Nicholas I",
+    "name:es": "Monumento a Nicolás I",
+    "name:fa": "نیکولای اول",
+    "name:zh": "尼古拉我",
+    "start_date": "1859-06-25",
+    "tourism": "attraction",
+    "wheelchair": "yes",
+    "wikidata": "Q2081756",
+    "wikipedia": "ru:Памятник Николаю I"
+  }
+},
+{
+  "type": "node",
+  "id": 1128375988,
+  "lat": 59.9347001,
+  "lon": 30.4225445,
+  "tags": {
+    "historic": "manor",
+    "name": "Уткина дача",
+    "note": "филиал музея городской скульптуры",
+    "tourism": "museum",
+    "wikidata": "Q592394"
+  }
+},
+{
+  "type": "node",
+  "id": 1147518407,
+  "lat": 59.8945209,
+  "lon": 29.8405838,
+  "tags": {
+    "int_name": "Boulder \"Head\"",
+    "name": "Валун \"Голова\"",
+    "name:es": "Boulder \"head\"",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1186298549,
+  "lat": 59.9213674,
+  "lon": 30.3248528,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:housenumber": "2",
+    "addr:postcode": "191180",
+    "addr:street": "Лазаретный переулок",
+    "contact:vk": "https://vk.com/milmed_spb",
+    "name": "Военно-медицинский музей",
+    "opening_hours": "We 12:00-20:00; Th-Tu 11:00-18:00",
+    "tourism": "museum",
+    "website": "http://milmed.spb.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 1191476119,
+  "lat": 59.9368819,
+  "lon": 30.2905184,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:street": "Университетская набережная",
+    "name": "Древнеегипетский сфинкс",
+    "name:de": "Sphinx und Bronzelöwe",
+    "name:en": "Ancient Egyptian sphinx",
+    "tourism": "attraction",
+    "wikidata": "Q2657856",
+    "wikipedia": "ru:Сфинксы на Университетской набережной"
+  }
+},
+{
+  "type": "node",
+  "id": 1191476126,
+  "lat": 59.9370770,
+  "lon": 30.2911776,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:street": "Университетская набережная",
+    "name": "Древнеегипетский сфинкс",
+    "name:de": "Sphinx und Bronzelöwe",
+    "name:en": "Ancient Egyptian sphinx",
+    "tourism": "attraction",
+    "wikidata": "Q2657856",
+    "wikipedia": "ru:Сфинксы на Университетской набережной"
+  }
+},
+{
+  "type": "node",
+  "id": 1219219921,
+  "lat": 59.6928925,
+  "lon": 30.4644294,
+  "tags": {
+    "access": "yes",
+    "barrier": "gate",
+    "loc_name": "Ближние Новосильвийские ворота",
+    "name": "Новосильвийские ворота (ближние)",
+    "ref:okn": "781610399040326",
+    "sorting_name": "Новосильвийские ворота, ближние",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1219805512,
+  "lat": 59.6883255,
+  "lon": 30.4481631,
+  "tags": {
+    "amenity": "fountain",
+    "description": "Утрачена верхняя часть скульптуры, фонтан не действует",
+    "historic": "yes",
+    "image": "https://pastvu.com/_p/a/b/6/b/b6bd797438de6ac5d1a8d8f8c070b0bc.jpg",
+    "mapillary": "DizRsOeKWCONLIhYI5T9gZ",
+    "ruins": "yes",
+    "tourism": "attraction",
+    "wikimedia_commons": "File:Pavlovsk old800 03619625910252d3cbf0b297465e126b.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 1239575848,
+  "lat": 59.6939637,
+  "lon": 30.4655400,
+  "tags": {
+    "access": "yes",
+    "artist_name": "Ж.-Ф. Тома де Томон",
+    "barrier": "gate",
+    "description": "Чугунные декоративные ворота",
+    "loc_name": "Мавзолейные ворота",
+    "name": "Траурные ворота мавзолея «Супругу-благодетелю»",
+    "ref:okn": "781610399040336",
+    "start_date": "1808..1809",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1239990492,
+  "lat": 60.0927333,
+  "lon": 29.9551181,
+  "tags": {
+    "historic": "memorial",
+    "int_name": "Soccer Player",
+    "name": "Памятник футболисту Всеволоду Боброву",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1239999106,
+  "lat": 60.0884428,
+  "lon": 29.9553429,
+  "tags": {
+    "historic": "memorial",
+    "int_name": "Writer Zoshchenko",
+    "memorial": "statue",
+    "name": "Памятник М.М.Зощенко",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1240007898,
+  "lat": 60.0895762,
+  "lon": 29.9672358,
+  "tags": {
+    "historic": "yes",
+    "int_name": "First Russian Submarine",
+    "name": "Потаённое судно Никонова",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1241600764,
+  "lat": 60.1925988,
+  "lon": 29.7035123,
+  "tags": {
+    "int_name": "Tree of Happiness (2008)",
+    "name": "Дерево Счастья (2008)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1241637976,
+  "lat": 60.1911206,
+  "lon": 29.7009645,
+  "tags": {
+    "int_name": "Flower",
+    "name": "Цветок",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1241640751,
+  "lat": 60.1910746,
+  "lon": 29.7009416,
+  "tags": {
+    "int_name": "Hedgehog",
+    "name": "Ёжик",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1241643186,
+  "lat": 60.1908683,
+  "lon": 29.7018541,
+  "tags": {
+    "int_name": "Swing",
+    "name": "Качели Лодочки",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1241656489,
+  "lat": 60.1884390,
+  "lon": 29.6999666,
+  "tags": {
+    "name": "Рыбки",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1241661919,
+  "lat": 60.1998993,
+  "lon": 29.5390174,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "orthodox",
+    "historic": "ruins",
+    "name": "Руины железобетонной церкви",
+    "religion": "christian",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1241661923,
+  "lat": 60.1992861,
+  "lon": 29.5392170,
+  "tags": {
+    "name": "Могила Любви",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1252335335,
+  "lat": 59.6955631,
+  "lon": 30.4792404,
+  "tags": {
+    "name": "Круг белых берез",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1265550284,
+  "lat": 60.1481246,
+  "lon": 29.9357803,
+  "tags": {
+    "int_name": "Acorn Peter 1",
+    "name": "Жёлудь Петра 1",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1295102291,
+  "lat": 59.9276918,
+  "lon": 30.2944376,
+  "tags": {
+    "name": "Музейно-выставочный центр Петербургский Художник",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1312226165,
+  "lat": 59.9453876,
+  "lon": 30.3274499,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "statue",
+    "name": "Памятник Александру III",
+    "name:de": "Denkmal für Alexander III.",
+    "name:en": "Monument to Alexander III",
+    "name:zh": "纪念碑亚历山大三世",
+    "tourism": "attraction",
+    "wikidata": "Q4343046",
+    "wikipedia": "ru:Памятник Александру III (Санкт-Петербург)"
+  }
+},
+{
+  "type": "node",
+  "id": 1323222592,
+  "lat": 59.7182624,
+  "lon": 30.3988574,
+  "tags": {
+    "check_date": "2015-09-07",
+    "name": "выставка \"Реликвии войны. 1941-1945 гг.\"",
+    "opening_hours": "We-Su 11:00-18:00",
+    "operator": "Общество возрождения художественных традиций Руси",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1347063447,
+  "lat": 59.9126481,
+  "lon": 29.7368660,
+  "tags": {
+    "name": "Каменная скамья",
+    "natural": "stone",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1347070869,
+  "lat": 59.9160907,
+  "lon": 29.7494327,
+  "tags": {
+    "historic": "tomb",
+    "name": "Место захоронения герцога Г. Г. Мекленбург-Стрелицкого 1859-1909 и его дочери Натальи 1894-1913",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1347099777,
+  "lat": 59.9085937,
+  "lon": 29.7423945,
+  "tags": {
+    "name": "колодец",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1349266301,
+  "lat": 60.1497694,
+  "lon": 29.9273589,
+  "tags": {
+    "int_name": "Acorn Sundial",
+    "name": "Жёлудь Солнечные часы",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1383043649,
+  "lat": 59.9227783,
+  "lon": 30.3848158,
+  "tags": {
+    "email": "monument.mgs@gmail.com",
+    "fax": "+7 812 2742635",
+    "name": "Государственный музей городской скульптуры",
+    "phone": "+7 812 2742635",
+    "tourism": "museum",
+    "website": "http://www.gmgs.ru",
+    "wikidata": "Q576071"
+  }
+},
+{
+  "type": "node",
+  "id": 1389704850,
+  "lat": 59.8866578,
+  "lon": 30.1686620,
+  "tags": {
+    "name": "Надпись Ленинград",
+    "name:en": "Inscription Ленинград",
+    "tourism": "attraction",
+    "traffic_sign": "city_limit"
+  }
+},
+{
+  "type": "node",
+  "id": 1390323921,
+  "lat": 59.9467255,
+  "lon": 30.3784451,
+  "tags": {
+    "name": "\"Башня\" Вячеслава Иванова",
+    "name:en": "Vyacheslav Ivanov \"Tower\"",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1393053142,
+  "lat": 59.7330100,
+  "lon": 30.0863764,
+  "tags": {
+    "name": "Музей мостов",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1421750016,
+  "lat": 59.9577700,
+  "lon": 30.3467548,
+  "tags": {
+    "description:en": "Monument to Baronet James V. Wylie 1768-1854, chief physician of the Russian army",
+    "historic": "memorial",
+    "memorial": "statue",
+    "name": "Я.В. Виллие",
+    "name:en": "James Wyllie",
+    "tourism": "attraction",
+    "wikidata": "Q1681328",
+    "wikipedia": "ru:Виллие, Яков Васильевич"
+  }
+},
+{
+  "type": "node",
+  "id": 1428589170,
+  "lat": 59.9713872,
+  "lon": 30.3124463,
+  "tags": {
+    "contact:phone": "+7 812 3461850;+7 911 7229217",
+    "contact:website": "http://www.photohismus.spb.ru/",
+    "name": "Музей истории фотографии",
+    "name:en": "Photography History Museum",
+    "opening_hours": "Tu-Sa 13:00-17:00; Jul-Aug unknown \"Only for groups of 5 or more people, booking required\"",
+    "phone": "+7 812 3461850",
+    "tourism": "museum",
+    "website": "http://www.photohismus.spb.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 1431722815,
+  "lat": 60.0048425,
+  "lon": 30.3780033,
+  "tags": {
+    "name": "Историко-технический Музей",
+    "opening_hours": "Mo-Fr 11:00-17:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1432837187,
+  "lat": 59.9264951,
+  "lon": 30.3550802,
+  "tags": {
+    "contact:vk": "https://vk.com/lngumilevmuseum",
+    "name": "Музей-квартира Л.Н.Гумилева",
+    "name:en": "Lev Gumilev Apartment Museum",
+    "opening_hours": "Tu-Su 11:00-18:00",
+    "operator": "Музей Анны Ахмвтовой",
+    "tourism": "museum",
+    "website": "http://www.gumilev-museum.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 1438259722,
+  "lat": 59.9318133,
+  "lon": 30.3014607,
+  "tags": {
+    "contact:vk": "https://vk.com/museumreligion",
+    "internet_access": "wlan",
+    "name": "Музей истории религии",
+    "opening_hours": "Th-Mo 11:00-18:00; Tu 13:00-21:00",
+    "tourism": "museum",
+    "website": "http://www.gmir.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 1438617929,
+  "lat": 59.6875204,
+  "lon": 30.4550760,
+  "tags": {
+    "description": "Дерево с огромным дуплом",
+    "leaf_cycle": "deciduous",
+    "leaf_type": "broadleaved",
+    "natural": "tree",
+    "species": "Quericus Robur",
+    "start_date": "1780...1800",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1439033025,
+  "lat": 59.9235257,
+  "lon": 30.2821374,
+  "tags": {
+    "contact:vk": "https://vk.com/club81419567",
+    "name": "Музей-квартира А. А. Блока",
+    "official_name": "Санкт-Петербургское государственное учреждение культуры «Государственный музей истории Санкт-Петербурга» филиал «Музей-квартира А. А. Блока»",
+    "opening_hours": "Th-Mo 11:00-18:00; Tu 11:00-17:00",
+    "tourism": "museum",
+    "website": "http://www.spbmuseum.ru/themuseum/museum_complex/blok_museum/",
+    "wikidata": "Q3329024"
+  }
+},
+{
+  "type": "node",
+  "id": 1450933396,
+  "lat": 59.9935152,
+  "lon": 29.7629948,
+  "tags": {
+    "name": "Музей Кронштадского Морского завода",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1453572924,
+  "lat": 59.9894720,
+  "lon": 29.7686816,
+  "tags": {
+    "disused": "yes",
+    "name": "Мемориальный музей изобретателя радио А. С. Попова",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1453673853,
+  "lat": 59.9885048,
+  "lon": 29.7611922,
+  "tags": {
+    "man_made": "crane",
+    "name": "Кран",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1453679395,
+  "lat": 59.9891854,
+  "lon": 29.7623362,
+  "tags": {
+    "man_made": "survey_point",
+    "name": "Исходный пункт нивелирной сети России",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1455267785,
+  "lat": 59.9864277,
+  "lon": 29.7667110,
+  "tags": {
+    "name": "Мемориальное полуденое орудие",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1455267790,
+  "lat": 59.9867847,
+  "lon": 29.7668434,
+  "tags": {
+    "historical_plate": "От Афанесьевича и Ко",
+    "name": "Неизвестной парашютистке",
+    "natural": "tree",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1455267794,
+  "lat": 59.9860921,
+  "lon": 29.7683745,
+  "tags": {
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1455267798,
+  "lat": 59.9861917,
+  "lon": 29.7678692,
+  "tags": {
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1455937647,
+  "lat": 59.9879810,
+  "lon": 29.7858376,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "В память о героизме и мужестве кроштадтцев в дни 900-дневной блокады сохранена эта надпись",
+    "name": "В память о героизме кроштадтцев в дни блокады",
+    "source": "survey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1459207052,
+  "lat": 59.9392220,
+  "lon": 30.3075884,
+  "tags": {
+    "description:en": "Monument to Peter I, who learnt wooden ship building incognito in Saardame , Netherlands.",
+    "historic": "memorial",
+    "memorial": "statue",
+    "name": "Царь-плотник",
+    "name:en": "Carpenter King",
+    "name:es": "rey carpintero",
+    "name:fr": "Le roi charpentier",
+    "tourism": "attraction",
+    "wheelchair": "yes",
+    "wikidata": "Q4503271",
+    "wikipedia": "ru:Царь-плотник"
+  }
+},
+{
+  "type": "node",
+  "id": 1464061393,
+  "lat": 59.9378002,
+  "lon": 30.3256367,
+  "tags": {
+    "artist_name": "Николай Евгеньевич Лансере",
+    "name": "Метеорологический павильон",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1480118259,
+  "lat": 59.9189815,
+  "lon": 30.3109454,
+  "tags": {
+    "name": "Музей Г. Р. Державина",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1486061637,
+  "lat": 59.9534635,
+  "lon": 30.3142041,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:place": "Александровский парк",
+    "contact:email": "artillery@yandex.ru",
+    "contact:phone": "+7 812 2320296",
+    "contact:website": "http://www.artillery-museum.ru/",
+    "name": "Военно-исторический музей артиллерии, инженерных войск и войск связи",
+    "name:de": "Artilleriemuseum",
+    "name:en": "Artillery Museum",
+    "name:es": "Museo de Artillería",
+    "name:fr": "Musée de l'artillerie",
+    "opening_hours": "We-Su 11:00-18:00",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q2388030",
+    "wikipedia": "ru:Военно-исторический музей артиллерии, инженерных войск и войск связи"
+  }
+},
+{
+  "type": "node",
+  "id": 1506933129,
+  "lat": 59.7453924,
+  "lon": 30.3898467,
+  "tags": {
+    "historic": "memorial",
+    "name": "110 стрелковому корпусу",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1515211295,
+  "lat": 59.9318003,
+  "lon": 30.3047879,
+  "tags": {
+    "name": "Музей В.В. Набокова",
+    "opening_hours": "Tu-Fr 11:00-18:00; Sa 12:00-17:00",
+    "phone": "+7 812 3154713",
+    "tourism": "museum",
+    "website": "http://nabokov.museums.spbu.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 1521311711,
+  "lat": 59.9486788,
+  "lon": 30.3135921,
+  "tags": {
+    "description:en": "Peter the Great's high-security political prison.",
+    "name": "Музей тюрьмы Трубецкого бастиона",
+    "name:en": "Trubetskoy Bastion Prison",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1579387418,
+  "lat": 59.9534505,
+  "lon": 30.3181338,
+  "tags": {
+    "architect": "В. А. Петров, А. Г. Леляков",
+    "artist_name": "А. М. Игнатьев, А. А. Дема",
+    "height": "9",
+    "historic": "memorial",
+    "image": "http://commons.wikimedia.org/wiki/File:Decembrist_execution_stella.JPG",
+    "memorial": "stele",
+    "name": "Место казни декабристов",
+    "name:en": "Decembrists execution site",
+    "start_date": "1975",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1584652254,
+  "lat": 59.9441061,
+  "lon": 30.3040470,
+  "tags": {
+    "description": "Вторник: с 10.00 до 17.00 часов вход свободный, без экскурсионного обслуживания. Понедельник - пятница: с 10.00 до 17.00 часов. Проводим экскурсии. Суббота, воскресенье - проводим Дни Рождения",
+    "name": "Музей почвоведения имени В. В. Докучаева",
+    "name:de": "Museum für Bodenkunde",
+    "name:en": "Museum of Soil Science",
+    "name:zh": "博物馆的土壤科学之名命名",
+    "opening_hours": "Mo-Fr 10:00-17:00",
+    "phone": "+7 812 3285402",
+    "tourism": "museum",
+    "website": "http://xn----dtbaibdbjqd4avhbm3d3d0h.xn--p1ai"
+  }
+},
+{
+  "type": "node",
+  "id": 1600107141,
+  "lat": 59.8431606,
+  "lon": 30.3221755,
+  "tags": {
+    "name": "Музей блокады Ленинграда",
+    "name:zh": "列寧格勒英雄捍衛者紀念碑、紀念館",
+    "opening_hours": "Th-Tu 10:00-18:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1621202012,
+  "lat": 59.6874802,
+  "lon": 30.4642418,
+  "tags": {
+    "denotation": "landmark",
+    "description": "Новый саженец на месте умершего в 2014 году старого дерева",
+    "leaf_cycle": "deciduous",
+    "leaf_type": "broadleaved",
+    "name": "Дуб-патриарх",
+    "name:en": "The oak tree",
+    "name:zh": "橡树",
+    "natural": "tree",
+    "note": "молодое дерево",
+    "taxon": "Quercus robur",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1621246505,
+  "lat": 59.6916135,
+  "lon": 30.4561809,
+  "tags": {
+    "name": "Каскад Ботанического пруда",
+    "tourism": "attraction",
+    "waterway": "weir"
+  }
+},
+{
+  "type": "node",
+  "id": 1634580390,
+  "lat": 59.6858468,
+  "lon": 30.4504595,
+  "tags": {
+    "name": "Урна судьбы",
+    "note": "перемещана или заменена копией",
+    "ref": "П185",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1635119648,
+  "lat": 59.6868801,
+  "lon": 30.4494819,
+  "tags": {
+    "access": "yes",
+    "barrier": "gate",
+    "name": "Чугунные ворота с вазами",
+    "name:fr": "Porte de Bronze",
+    "ref:okn": "781610399040596",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1652587971,
+  "lat": 59.6896634,
+  "lon": 30.4606676,
+  "tags": {
+    "barrier": "gate",
+    "description": "руины ворот",
+    "historic": "yes",
+    "name": "Малые Старосильвийские ворота",
+    "ref:okn": "781620399040626",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1652587976,
+  "lat": 59.6902443,
+  "lon": 30.4604038,
+  "tags": {
+    "alt_name": "Родительские ворота",
+    "barrier": "gate",
+    "description": "руины ворот",
+    "historic": "yes",
+    "name": "Ворота к Памятнику родителям",
+    "ref:okn": "781620399040626",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1704260119,
+  "lat": 59.7455222,
+  "lon": 30.3894326,
+  "tags": {
+    "name": "Землянка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1715091879,
+  "lat": 59.7105370,
+  "lon": 30.3795625,
+  "tags": {
+    "historic": "monument",
+    "name": "Крымская колонна",
+    "name:en": "Crimean column",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1726109504,
+  "lat": 59.9549277,
+  "lon": 30.2316183,
+  "tags": {
+    "addr:housenumber": "39",
+    "addr:postcode": "199397",
+    "addr:street": "улица Кораблестроителей",
+    "attraction": "urban",
+    "material": "concrete",
+    "name": "Репка",
+    "playground": "structure;slide",
+    "playground:theme": "The Giant Turnip",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1754395895,
+  "lat": 59.7120142,
+  "lon": 30.4239864,
+  "tags": {
+    "name": "Фонтан",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1757659336,
+  "lat": 59.9358282,
+  "lon": 30.3373770,
+  "tags": {
+    "name": "Музей гигиены",
+    "name:en": "Museum of Hygiene",
+    "name:fr": "Musée de l'hygiène",
+    "opening_hours": "Tu-Sa 11:00-19:30",
+    "phone": "+7 812 5958908",
+    "tourism": "museum",
+    "website": "http://gcmp.ru/museum/",
+    "wikidata": "Q16678420"
+  }
+},
+{
+  "type": "node",
+  "id": 1833271775,
+  "lat": 59.9439950,
+  "lon": 30.3062658,
+  "tags": {
+    "inscription": "Речной якорь корабля Русского флота. Олонецкий завод 1723год. Найден на Васильевском острове в 2001 году. Установлен в честь 300-летия Санкт-Петербурга",
+    "name": "Якорь",
+    "name:en": "Anchor",
+    "name:fr": "Ancre",
+    "name:zh": "锚",
+    "start_date": "2003.05.23",
+    "tourism": "attraction",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1882593319,
+  "lat": 59.9361132,
+  "lon": 30.3078349,
+  "tags": {
+    "description:en": "Gas lights around Przhevalsky monument.",
+    "name": "Газовые фонари вокруг памятника Пржевальскому",
+    "name:en": "Gas lights around Przhevalsky monument",
+    "name:es": "lámparas de gas alrededor del monumento Przhevalsky",
+    "name:ru": "Газовые фонари вокруг памятника Пржевальскому",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1886744437,
+  "lat": 59.9551963,
+  "lon": 30.2944675,
+  "tags": {
+    "name": "Музей Сновидений Фрейда",
+    "tourism": "museum",
+    "wikidata": "Q1617464"
+  }
+},
+{
+  "type": "node",
+  "id": 1924397334,
+  "lat": 59.7411071,
+  "lon": 30.6106121,
+  "tags": {
+    "name": "Трое из Простоквашино",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1938706048,
+  "lat": 59.9481657,
+  "lon": 30.2351057,
+  "tags": {
+    "email": "museum@metro.spb.ru",
+    "name": "Музей Петербургского метрополитена",
+    "opening_hours": "Mo-Sa 10:00-11:45; 12:30-17:00",
+    "phone": "+7 812 3019833;+7 812 4045920;+7 921 7941626",
+    "reservation": "required",
+    "tourism": "museum",
+    "website": "http://dosug.metro.spb.ru/metro-museum/"
+  }
+},
+{
+  "type": "node",
+  "id": 1938744254,
+  "lat": 59.9442137,
+  "lon": 30.2954297,
+  "tags": {
+    "email": "optimus@corp.ifmo.ru",
+    "name": "Музей оптики",
+    "name:en": "Optics Museum",
+    "opening_hours": "Tu-Th 11:00-20:00; Fr-Su 11:00-21:00",
+    "phone": "+7 812 4571779",
+    "tourism": "museum",
+    "website": "http://optimus.ifmo.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 1948113538,
+  "lat": 59.7158835,
+  "lon": 30.3954337,
+  "tags": {
+    "name": "Янтарная комната",
+    "name:cs": "Jantarová komnata",
+    "name:de": "Bernsteinzimmer",
+    "name:en": "Amber Room",
+    "name:es": "Cámara de Ámbar",
+    "name:fa": "اتاق کهربا",
+    "name:fi": "Meripihkahuone",
+    "name:it": "Gintaro kambarys",
+    "name:zh": "琥珀色的房间",
+    "tourism": "attraction",
+    "wheelchair": "yes",
+    "wikidata": "Q157012",
+    "wikipedia": "ru:Янтарная комната"
+  }
+},
+{
+  "type": "node",
+  "id": 1948162678,
+  "lat": 59.7149639,
+  "lon": 30.3951915,
+  "tags": {
+    "name": "Агатовые комнаты",
+    "name:en": "Agate rooms",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1948162682,
+  "lat": 59.7149949,
+  "lon": 30.3950841,
+  "tags": {
+    "name": "Холодная баня",
+    "name:en": "The cold bath",
+    "name:zh": "冷浴场",
+    "tourism": "attraction",
+    "wikidata": "Q16271025",
+    "wikipedia": "ru:Холодная баня с Агатовыми комнатами (Царское Село)"
+  }
+},
+{
+  "type": "node",
+  "id": 1967298502,
+  "lat": 59.7143945,
+  "lon": 30.3922590,
+  "tags": {
+    "name": "Скульптуры двух львов",
+    "name:en": "Sculptures of two lions",
+    "name:zh": "雕塑的两个狮子",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1967298503,
+  "lat": 59.7144533,
+  "lon": 30.3921325,
+  "tags": {
+    "name": "Скульптуры двух львов",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2008725261,
+  "lat": 60.0938161,
+  "lon": 30.1908061,
+  "tags": {
+    "name": "Левашовская пустошь",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2077592243,
+  "lat": 59.9213407,
+  "lon": 30.3465733,
+  "tags": {
+    "contact:vk": "https://vk.com/marata64",
+    "name": "Культурно-просветительский центр «Марата 64»",
+    "tourism": "museum",
+    "website": "https://www.spbstu.ru/structure/muzey_istorii_professionalnogo_obrazovaniya/"
+  }
+},
+{
+  "type": "node",
+  "id": 2086001201,
+  "lat": 59.9247491,
+  "lon": 30.3407961,
+  "tags": {
+    "contact:vk": "https://vk.com/rkmuseum",
+    "name": "Музей-квартира Н. А. Римского-Корсакова",
+    "name:fr": "Apprtement-musée de Nikolaï Rimski-Korsakov",
+    "opening_hours": "We 13:00-21:00; Th-Su 11:00-18:00; Fr[-1] off",
+    "tourism": "museum",
+    "website": "http://rkorsakov.ru/",
+    "wikidata": "Q4306051",
+    "wikipedia": "ru:Музей-квартира Н. А. Римского-Корсакова"
+  }
+},
+{
+  "type": "node",
+  "id": 2119158141,
+  "lat": 59.8409320,
+  "lon": 30.3256205,
+  "tags": {
+    "description": "Памятный знак \"Историческая и духовная связь Москвы и Санкт-Петербурга\"",
+    "historic": "milestone",
+    "start_date": "2003-09-16",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2181181342,
+  "lat": 59.9803497,
+  "lon": 30.2685571,
+  "tags": {
+    "name": "Музей художественного стекла",
+    "name:en": "Museum of Art Glass",
+    "name:fr": "Musée de l'art de la verrerie",
+    "opening_hours": "Tu, Th-Su 10:00-18:30; We 13:00-21:00",
+    "phone": "+7 812 4309784",
+    "tourism": "museum",
+    "website": "https://elaginpark.org/glass"
+  }
+},
+{
+  "type": "node",
+  "id": 2282794448,
+  "lat": 59.8529406,
+  "lon": 30.1752835,
+  "tags": {
+    "name": "Крест",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2290807265,
+  "lat": 59.8939037,
+  "lon": 30.4296375,
+  "tags": {
+    "name": "Памятник Ткачам",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2385986746,
+  "lat": 59.9302743,
+  "lon": 30.2932323,
+  "tags": {
+    "contact:email": "info@navalmuseum.ru",
+    "name": "Центральный военно-морской музей",
+    "name:de": "Zentrales Museum der Seekriegsflotte",
+    "name:en": "Central Naval Museum",
+    "name:fr": "Musée de la Marine",
+    "name:ru": "Центральный военно-морской музей",
+    "opening_hours": "We-Su 11:00-18:00",
+    "phone": "+7 812 3038513",
+    "tourism": "museum",
+    "website": "http://navalmuseum.ru",
+    "wikidata": "Q190439",
+    "wikipedia": "ru:Центральный военно-морской музей"
+  }
+},
+{
+  "type": "node",
+  "id": 2400928307,
+  "lat": 59.9256318,
+  "lon": 30.3257431,
+  "tags": {
+    "name": "Ротонда",
+    "name:en": "Rotunda",
+    "opening_hours": "Mo-Fr 18:00-22:00; Sa-Su 11:00-22:00",
+    "tourism": "attraction",
+    "website": "https://vk.com/rotondaeveryday"
+  }
+},
+{
+  "type": "node",
+  "id": 2403276123,
+  "lat": 59.7495344,
+  "lon": 30.5570285,
+  "tags": {
+    "historic": "memorial",
+    "name": "Колпино - город воинской славы",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2407181729,
+  "lat": 59.9324261,
+  "lon": 30.3104607,
+  "tags": {
+    "contact:vk": "https://vk.com/varezhkaspb",
+    "name": "Музей варежки",
+    "name:en": "Museum of Mitten",
+    "name:zh": "该博物馆中的手套",
+    "opening_hours": "11:00-19:00",
+    "tourism": "museum",
+    "website": "http://музей-варежки.рф/"
+  }
+},
+{
+  "type": "node",
+  "id": 2407188222,
+  "lat": 59.9335812,
+  "lon": 30.3101765,
+  "tags": {
+    "contact:vk": "https://vk.com/rosphoto.museum",
+    "full_name": "Государственный музейно-выставочный центр РОСФОТО",
+    "name": "Росфото",
+    "tourism": "museum",
+    "website": "https://rosphoto.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 2426962446,
+  "lat": 59.9370830,
+  "lon": 30.3285834,
+  "tags": {
+    "architect": "В. Б. Бухаев",
+    "artist_name": "А. С. Чаркин",
+    "height": "1.9",
+    "historic": "memorial",
+    "memorial": "statue",
+    "name": "Памятник Остапу Бендеру",
+    "start_date": "2000-07-25",
+    "tourism": "attraction",
+    "wheelchair": "yes",
+    "wikidata": "Q25396029",
+    "wikipedia": "ru:Памятник Остапу Бендеру (Санкт-Петербург)"
+  }
+},
+{
+  "type": "node",
+  "id": 2458376942,
+  "lat": 59.9387540,
+  "lon": 30.3409898,
+  "tags": {
+    "fixme": "уточнить положение музея в здании",
+    "name": "Музей циркового искусства",
+    "name:en": "Museum of circus arts",
+    "name:es": "Museo de las Artes del Circo",
+    "name:zh": "马戏艺术博物馆",
+    "tourism": "museum",
+    "website": "http://www.circus.spb.ru/ru/muzej/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2458380092,
+  "lat": 59.9749800,
+  "lon": 30.3061673,
+  "tags": {
+    "name": "Музей истории института экспериментальной медицины",
+    "tourism": "museum",
+    "website": "http://iemrams.spb.ru/russian/museumru.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 2462663672,
+  "lat": 59.9302177,
+  "lon": 30.3598504,
+  "tags": {
+    "name": "МузЭрос",
+    "opening_hours": "24/7",
+    "phone": "+7 812 9050394",
+    "tourism": "museum",
+    "website": "https://museros.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 2463438527,
+  "lat": 59.8614459,
+  "lon": 30.1332718,
+  "tags": {
+    "name": "Колокол 300-летия",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2463438532,
+  "lat": 59.8614918,
+  "lon": 30.1327608,
+  "tags": {
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2463438533,
+  "lat": 59.8614932,
+  "lon": 30.1326666,
+  "tags": {
+    "name": "Яхт-клуб \"Балтиец\"",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2470881127,
+  "lat": 59.7167715,
+  "lon": 30.3896007,
+  "tags": {
+    "name": "куртина Грибок",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2484334091,
+  "lat": 59.9352702,
+  "lon": 30.3390933,
+  "tags": {
+    "description": "Живописный дворик с граффити видов итальянских городов на стенах",
+    "name": "Дворик на Итальянской 29",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2518171684,
+  "lat": 59.8810687,
+  "lon": 29.9400827,
+  "tags": {
+    "name": "Камень-скамейка",
+    "name:es": "Piedra blanca",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2661549863,
+  "lat": 59.9495388,
+  "lon": 30.3623837,
+  "tags": {
+    "contact:vk": "https://vk.com/coffee_museum",
+    "name": "Музей Кофе",
+    "opening_hours": "10:00-20:00",
+    "phone": "+7 812 2758739",
+    "tourism": "museum",
+    "website": "http://www.mcof.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 2736309107,
+  "lat": 59.9331525,
+  "lon": 30.3014605,
+  "tags": {
+    "contact:vk": "https://vk.com/cats_republic",
+    "name": "Республика кошек",
+    "name:en": "Cats Republic",
+    "name:es": "república de los gatos",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+7 812 3120487",
+    "tourism": "museum",
+    "website": "https://www.catsrepublic.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 2749608159,
+  "lat": 59.9374839,
+  "lon": 30.3294475,
+  "tags": {
+    "name": "Музей-квартира И.И. Бродского",
+    "name:en": "Isaak Brodsky Apartment Museum",
+    "name:fr": "Maison-musée Brodsky",
+    "opening_hours": "We,Sa,Su 12:00-18:00; Th,Fr 14:00-20:00",
+    "phone": "+7 812 3143658",
+    "tourism": "museum",
+    "website": "http://www.nimrah.ru/musbrod/",
+    "wheelchair": "yes",
+    "wikidata": "Q19910193",
+    "wikipedia": "ru:Музей-квартира И. И. Бродского"
+  }
+},
+{
+  "type": "node",
+  "id": 2753380594,
+  "lat": 59.9400870,
+  "lon": 30.3267716,
+  "tags": {
+    "contact:vk": "https://vk.com/15kop",
+    "name": "Музей советских игровых автоматов",
+    "name:en": "Museum of Soviet arcade machines",
+    "name:fr": "Musée des jeux d'arcade soviétiques",
+    "name:ru": "Музей советских игровых автоматов",
+    "opening_hours": "11:00-20:00",
+    "tourism": "museum",
+    "website": "http://www.15kop.ru/museum/saint_petersburg/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2780935910,
+  "lat": 59.9694521,
+  "lon": 30.3149351,
+  "tags": {
+    "historic": "printing_press",
+    "name": "Печатный станок",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2862127552,
+  "lat": 59.9869410,
+  "lon": 29.7914287,
+  "tags": {
+    "name": "Музей истории Кронштадта",
+    "opening_hours": "Mo-Tu 11:00-18:00; Th-Su 11:00-18:00",
+    "phone": "+7 812 4350873",
+    "tourism": "museum",
+    "website": "http://www.kronstadt.ru/museum/"
+  }
+},
+{
+  "type": "node",
+  "id": 2881615473,
+  "lat": 60.1971807,
+  "lon": 29.7071195,
+  "tags": {
+    "name": "Часы",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2891968783,
+  "lat": 60.0257291,
+  "lon": 30.2954338,
+  "tags": {
+    "name": "Юный",
+    "operator": "Малая Октябрьская железная дорога",
+    "platforms": "2",
+    "public_transport": "station",
+    "railway": "station",
+    "tourism": "attraction",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2937729921,
+  "lat": 59.8803625,
+  "lon": 29.9355295,
+  "tags": {
+    "name": "готический колодец",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2943366165,
+  "lat": 59.9696571,
+  "lon": 30.3006751,
+  "tags": {
+    "contact:phone": "+7 812 2344312",
+    "contact:website": "http://www.spbtoymuseum.com",
+    "name": "Санкт-Петербургский Музей Игрушки",
+    "name:en": "St. Petersburg Toy Museum",
+    "opening_hours": "Tu-Su 11:00-18:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2949696746,
+  "lat": 60.0759242,
+  "lon": 30.2956171,
+  "tags": {
+    "amenity": "bench",
+    "name": "каменная скамья",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2958398085,
+  "lat": 59.9741958,
+  "lon": 30.3057747,
+  "tags": {
+    "name": "Дом-музей Ф. И. Шаляпина",
+    "opening_hours": "We 13:00-21:00; Th-Su 12:00-19:00",
+    "phone": "+7 812 2341056",
+    "source": "sourvey",
+    "tourism": "museum",
+    "website": "http://www.theatremuseum.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 2972746028,
+  "lat": 60.1644419,
+  "lon": 29.8733775,
+  "tags": {
+    "addr:housenumber": "260",
+    "addr:street": "Приморское шоссе",
+    "description": "Верёвочный парк",
+    "email": "park@treetotree.ru",
+    "leisure": "pitch",
+    "name": "Tree to Tree",
+    "opening_hours": "Tu-Fr 15:00-20:00; Sa,Su 10:00-20:00; Mo off",
+    "phone": "+7 921 5500754;+7 931 5933230;+7 812 9878457",
+    "tourism": "attraction",
+    "website": "http://treetotree.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 3014139399,
+  "lat": 60.1478058,
+  "lon": 29.9377708,
+  "tags": {
+    "historic": "memorial",
+    "name": "Памятник желудю",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3114038905,
+  "lat": 59.8040623,
+  "lon": 30.6040757,
+  "tags": {
+    "name": "Дерево желаний",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3114038906,
+  "lat": 59.8041594,
+  "lon": 30.6042928,
+  "tags": {
+    "name": "Ладья",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3135946970,
+  "lat": 59.9196001,
+  "lon": 30.3341026,
+  "tags": {
+    "amenity": "bench",
+    "name": "Хитрая скамейка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3328712097,
+  "lat": 59.9652402,
+  "lon": 30.3152427,
+  "tags": {
+    "description": "Интерактивный музей занимательной науки «ЛабиринтУм»",
+    "name": "ЛабиринтУм",
+    "opening_hours": "11:00-19:00",
+    "phone": "+7 812 3280008",
+    "tourism": "museum",
+    "website": "https://www.labirint-um.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 3345679795,
+  "lat": 59.9361165,
+  "lon": 30.3455725,
+  "tags": {
+    "name": "Музей музыки",
+    "note": "филиал Санкт-Петербургского государственного музея театрального и музыкального искусства",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3367056796,
+  "lat": 59.6861207,
+  "lon": 30.4542970,
+  "tags": {
+    "name": "Музей костюма",
+    "name:en": "Museum of dress",
+    "name:zh": "博物馆的服装",
+    "tourism": "museum",
+    "website": "http://www.pavlovskmuseum.ru/activities/exposition/regular/9/"
+  }
+},
+{
+  "type": "node",
+  "id": 3390091916,
+  "lat": 59.9363490,
+  "lon": 30.3501224,
+  "tags": {
+    "name": "Двор искусств",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3413231385,
+  "lat": 59.7263906,
+  "lon": 30.4612915,
+  "tags": {
+    "name": "Лось",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3425666979,
+  "lat": 59.9381894,
+  "lon": 30.2626950,
+  "tags": {
+    "email": "vsegei@vsegei.sp.ru",
+    "fee": "no",
+    "name": "Центральный научно-исследовательский геологоразведочный музей им. ак. Ф.Н. Чернышева",
+    "opening_hours": "Mo-Fr 10:00-16:00",
+    "phone": "+7 812 3215399",
+    "short_name": "ВСЕГЕИ",
+    "tourism": "museum",
+    "website": "http://www.vsegei.com/ru/structure/information/museum/"
+  }
+},
+{
+  "type": "node",
+  "id": 3430895923,
+  "lat": 59.7253567,
+  "lon": 30.3866051,
+  "tags": {
+    "name": "Музей Первой Мировой войны",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3514231814,
+  "lat": 59.8634545,
+  "lon": 30.3348028,
+  "tags": {
+    "amenity": "library",
+    "name": "Музей книги блокадного города (Библиотека №5)",
+    "opening_hours": "Mo-Fr 11:00-22:00; Su 11:00-18:00; Sa off",
+    "operator": "Централизованная библиотечная система Московского района",
+    "phone": "+7 812 3735160",
+    "tourism": "museum",
+    "website": "http://www.cbs-msk.ru/library/29/"
+  }
+},
+{
+  "type": "node",
+  "id": 3514312991,
+  "lat": 59.8418189,
+  "lon": 30.2294918,
+  "tags": {
+    "name": "Музейная экспозиция «Три века Петергофской дороги»",
+    "operator": "Библиотека им. М.А. Шолохова",
+    "source": "http://pandia.ru/text/77/497/8415-2.php",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3514337018,
+  "lat": 59.8684218,
+  "lon": 30.2682201,
+  "tags": {
+    "name": "Анна Ахматова. Серебряный век.",
+    "note": "Касса закрывается во все дни на час раньше",
+    "opening_hours": "Mo-Th 10:00-18:00; Fr 10:00-17:00; Sa 10:00-16:30",
+    "phone": "+7 812 7850442",
+    "tourism": "museum",
+    "website": "https://akhmatova-museum.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 3514428815,
+  "lat": 59.8787688,
+  "lon": 30.2625978,
+  "tags": {
+    "fee": "no",
+    "name": "Музей истории и техники Акционерного общества \"Кировский завод\"",
+    "note": "Только экскурсионное обслуживание",
+    "opening_hours": "Mo-Fr 10:00-17:00",
+    "phone": "+7 812 7842233",
+    "source": "http://www.museum.ru/M213",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3514490193,
+  "lat": 59.8854935,
+  "lon": 30.2655438,
+  "tags": {
+    "name": "Усадьба «Кирьяново»",
+    "note": "сб и вс музей работает только по предварительным заявкам",
+    "opening_hours": "Mo-Th 10:00-17:00; Fr 10:00-16:00",
+    "operator": "Санкт-Петербургское государственное бюджетное учреждение \"Музей «Нарвская застава»\"",
+    "phone": "+7 812 3008329",
+    "tourism": "museum",
+    "website": "http://narvskaya-zastava.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 3514508479,
+  "lat": 59.8881582,
+  "lon": 30.3643222,
+  "tags": {
+    "name": "Музей отечественной киноаппаратуры",
+    "note": "Посещение музея проводится по предварительной договоренности.",
+    "opening_hours": "Mo-Fr 9:00-17:00",
+    "operator": "СПбГУКиТ",
+    "phone": "+7 812 2693232",
+    "tourism": "museum",
+    "website": "https://www.gukit.ru/fma/kafedry/kva/muzey"
+  }
+},
+{
+  "type": "node",
+  "id": 3514533236,
+  "lat": 59.8911429,
+  "lon": 30.4127419,
+  "tags": {
+    "name": "Истоки жизни-Невская застава",
+    "opening_hours": "Mo-Fr 9:00-18:00",
+    "operator": "СОШ №340",
+    "phone": "+7 812 5600563;+7 812 5602990",
+    "tourism": "museum",
+    "website": "https://school340.jimdo.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3514545041,
+  "lat": 59.8796388,
+  "lon": 30.4462288,
+  "tags": {
+    "name": "Музей Императорского фарфорового завода",
+    "name:en": "Imperial porcelain factory museum",
+    "opening_hours": "Mo-Fr 10:00-19:00",
+    "phone": "+7 812 3261743",
+    "tourism": "museum",
+    "website": "http://www.ipm.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 3514714653,
+  "lat": 59.9293827,
+  "lon": 30.3575184,
+  "tags": {
+    "name": "Музей нонконформистского искусства",
+    "name:en": "Non-Conformist Art Museum",
+    "opening_hours": "We-Fr 16:00-20:00; Sa, Su 12:00-20:00",
+    "phone": "+7 812 7644852",
+    "tourism": "museum",
+    "website": "http://nonmuseum.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 3514716689,
+  "lat": 59.9175065,
+  "lon": 30.3829201,
+  "tags": {
+    "description": "необходимо отправить заявку на адрес музея. время посещения фиксированное.",
+    "email": "museum.spbda@mail.ru",
+    "name": "Церковно-археологический музей",
+    "opening_hours": "Mo-Sa 15:00-15:00; Su 13:00-13:00",
+    "operator": "Санкт-Петербургская православная духовная академия",
+    "reservation": "required",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3514729546,
+  "lat": 59.9270878,
+  "lon": 30.3711593,
+  "tags": {
+    "name": "Музей истории милиции Культурного центра ГУ МВД",
+    "note": "Экскурсии по предварительным заявкам.",
+    "opening_hours": "Mo-Fr 10:00-17:00",
+    "operator": "Культурный Центр ГУ МВД России по г. Санкт-Петербургу и Ленинградской области",
+    "tourism": "museum",
+    "website": "http://www.kcgumvdspb.ru/#!museum/c1ttk"
+  }
+},
+{
+  "type": "node",
+  "id": 3514768827,
+  "lat": 59.9311453,
+  "lon": 30.3507501,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:street": "Стремянная улица",
+    "name": "Музей-квартира актеров Самойловых",
+    "opening_hours": "We 13:00-21:00; Th-Su 12:00-19:00",
+    "tourism": "museum",
+    "website": "http://theatremuseum.ru/filial/memorialnyy_muzey_kvartira_akterov_samoylovyh"
+  }
+},
+{
+  "type": "node",
+  "id": 3514832003,
+  "lat": 59.9329445,
+  "lon": 30.3443558,
+  "tags": {
+    "fee": "no",
+    "name": "Музей становления демократии в современной России имени Анатолия Собчака",
+    "opening_hours": "Mo-Fr 11:00-15:00",
+    "phone": "+7 812 5711706",
+    "reservation": "required",
+    "source": "http://www.museum.ru/m3231",
+    "tourism": "museum",
+    "website": "http://www.museum.ru/m3231",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3514877238,
+  "lat": 59.9334903,
+  "lon": 30.3292942,
+  "tags": {
+    "level": "1",
+    "name": "Музей восковых фигур",
+    "name:en": "Wax Museum",
+    "name:zh": "蜡像博物馆",
+    "phone": "+7 952 3744078",
+    "tourism": "museum",
+    "website": "http://www.wax.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 3514883282,
+  "lat": 59.9343976,
+  "lon": 30.3364912,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:floor": "4",
+    "addr:housenumber": "54",
+    "addr:street": "Невский проспект",
+    "contact:vk": "https://vk.com/bullafondart",
+    "fee": "yes",
+    "level": "3",
+    "name": "Музей-фотосалон Карла Буллы",
+    "name:en": "Karl Bulla Photography Museum",
+    "official_name": "Фонд исторической фотографии имени Карла Буллы",
+    "opening_hours": "Mo-Su 10:00-20:00",
+    "phone": "+7 812 3143301;+7 812 5710838",
+    "tourism": "museum",
+    "website": "http://www.bullafond.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 3514891976,
+  "lat": 59.9354769,
+  "lon": 30.3405017,
+  "tags": {
+    "addr:housenumber": "35",
+    "addr:street": "Итальянская улица",
+    "contact:vk": "https://vk.com/russkii_levsha",
+    "description": "Музей микроминиатюры",
+    "name": "Русский Левша",
+    "opening_hours": "Mo-Su 11:00-19:00",
+    "phone": "+7 812 3128897;+7 812 3128809",
+    "tourism": "museum",
+    "website": "http://www.russian-master.com/mgm/micro"
+  }
+},
+{
+  "type": "node",
+  "id": 3514938223,
+  "lat": 59.9354530,
+  "lon": 30.3568815,
+  "tags": {
+    "name": "Трикстер",
+    "opening_hours": "Tu-Sa 13:00-19:00",
+    "phone": "+7 911 2773264",
+    "tourism": "museum",
+    "website": "https://www.gidspb.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3514951221,
+  "lat": 59.9362333,
+  "lon": 30.3814414,
+  "tags": {
+    "description": "Только экскурсионное обслуживание",
+    "email": "smolny300@mail.ru",
+    "name": "Музей-квартира Аллилуевых",
+    "opening_hours": "We 13:00-21:00; Th-Su 10:00-18:00",
+    "tourism": "museum",
+    "website": "http://www.museum.ru/M177"
+  }
+},
+{
+  "type": "node",
+  "id": 3515072703,
+  "lat": 59.9459546,
+  "lon": 30.3965317,
+  "tags": {
+    "name": "Историко-мемориальный музей \"Смольный\"",
+    "note": "Только экскурсионное обслуживание по предварительной договоренности",
+    "opening_hours": "Mo-Th 10:00-18:00; Fr 15:00-18:00",
+    "phone": "+7 812 5767746;+7 812 5767461",
+    "tourism": "museum",
+    "website": "http://www.museum.ru/M109"
+  }
+},
+{
+  "type": "node",
+  "id": 3515113872,
+  "lat": 59.9449691,
+  "lon": 30.3939079,
+  "tags": {
+    "name": "Музей путешественника П. К. Козлова",
+    "phone": "+7 812 7100350;+7 812 5771243",
+    "tourism": "museum",
+    "website": "http://www.kozlov-museum.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 3515167998,
+  "lat": 59.9481665,
+  "lon": 30.3742705,
+  "tags": {
+    "name": "Центр истории парламентаризма",
+    "note": "Только по предварительной заявке и при наличии паспорта",
+    "opening_hours": "Mo-Fr 10:00-16:00",
+    "tourism": "museum",
+    "website": "http://parlament-history.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 3517104639,
+  "lat": 59.9392755,
+  "lon": 30.3486503,
+  "tags": {
+    "name": "Музей-квартира Н.А. Некрасова",
+    "opening_hours": "We-Su 10:30-18:00; Fr[-1] off",
+    "phone": "+7 812 2720165",
+    "tourism": "museum",
+    "website": "http://www.museumpushkin.ru/vserossijskij_muzej_a._s._pushkina/muzej-kvartira_n.a.nekrasova.html",
+    "wheelchair": "limited",
+    "wikidata": "Q4306048"
+  }
+},
+{
+  "type": "node",
+  "id": 3517140970,
+  "lat": 59.9379343,
+  "lon": 30.3263625,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:housenumber": "4/2",
+    "addr:postcode": "191186",
+    "addr:street": "Малая Конюшенная улица",
+    "contact:vk": "https://vk.com/glmxxvek",
+    "name": "Музей-квартира М.М. Зощенко",
+    "name:en": "M. Zoshchenko Apartment Museum",
+    "opening_hours": "Tu,Th-Su 10:30-18:30; We 12:00-20:00; Fr[-1] off",
+    "phone": "+7 812 5717819",
+    "tourism": "museum",
+    "website": "http://museum-xxvek.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 3517244102,
+  "lat": 59.9382677,
+  "lon": 30.3200126,
+  "tags": {
+    "contact:vk": "https://vk.com/musey_pechati",
+    "name": "Музей печати",
+    "name:en": "Museum of printing",
+    "name:fr": "Musée de l'écriture",
+    "name:zh": "博物馆的印刷",
+    "opening_hours": "Mo-Su 11:00-18:00; Tu 11:00-17:00; We off",
+    "phone": "+7 812 5710270",
+    "tourism": "museum",
+    "website": "https://www.spbmuseum.ru/themuseum/museum_complex/museum_of_printing/"
+  }
+},
+{
+  "type": "node",
+  "id": 3517287656,
+  "lat": 59.9360549,
+  "lon": 30.3145404,
+  "tags": {
+    "addr:housenumber": "4/1",
+    "addr:street": "Малая Морская улица",
+    "fee": "yes",
+    "name": "Петровская Акватория",
+    "opening_hours": "Mo-Su 10:00-21:30",
+    "phone": "+7 812 9334152",
+    "tourism": "museum",
+    "website": "http://www.peteraqua.ru/",
+    "wikidata": "Q21843106",
+    "wikipedia": "ru:Петровская Акватория"
+  }
+},
+{
+  "type": "node",
+  "id": 3517314640,
+  "lat": 59.9332085,
+  "lon": 30.3104744,
+  "tags": {
+    "contact:website": "http://starovoitova.ru/?p=149",
+    "level": "3",
+    "name": "Музей Г.В. Старовойтовой",
+    "name:en": "Galina Starovoytova Museum",
+    "opening_hours": "We, Sa 11:00-16:00",
+    "phone": "+7 812 3143728",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3517320997,
+  "lat": 59.9326018,
+  "lon": 30.2975134,
+  "tags": {
+    "name": "Музей русской водки",
+    "name:es": "museo del vodka",
+    "name:fr": "Musée de la Vodka Russe",
+    "phone": "+7 812 9431431",
+    "tourism": "museum",
+    "website": "https://www.vodkamuseum.su/"
+  }
+},
+{
+  "type": "node",
+  "id": 3517430230,
+  "lat": 59.9169657,
+  "lon": 30.3160219,
+  "tags": {
+    "name": "Музей БГТУ «Военмех»",
+    "opening_hours": "Mo-Fr 10:00-16:00",
+    "tourism": "museum",
+    "website": "https://www.voenmeh.ru/museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3517443157,
+  "lat": 59.9232140,
+  "lon": 30.3272382,
+  "tags": {
+    "contact:vk": "https://vk.com/spbmmrp",
+    "name": "Выставочный зал музея Разночинный Петербург",
+    "opening_hours": "Tu-Sa 11:00-17:00; Th[-1] off",
+    "phone": "+7 812 4075220",
+    "tourism": "museum",
+    "website": "http://spbmmrp.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 3517469270,
+  "lat": 59.9152037,
+  "lon": 30.2929245,
+  "tags": {
+    "name": "Музей истории государственных бумаг",
+    "note": "Только по предварительным заявкам.",
+    "phone": "+7 812 5751472",
+    "tourism": "museum",
+    "website": "http://spbf.goznak.ru/about/today/museum/"
+  }
+},
+{
+  "type": "node",
+  "id": 3517514902,
+  "lat": 59.9453505,
+  "lon": 30.2942104,
+  "tags": {
+    "fee": "yes",
+    "name": "Музей-квартира А. И. Куинджи",
+    "opening_hours": "We,Fr,Sa 12:00-17:00",
+    "phone": "+7 812 3233133",
+    "tourism": "museum",
+    "website": "http://nimrah.ru/muskuin/"
+  }
+},
+{
+  "type": "node",
+  "id": 3517542114,
+  "lat": 59.9381444,
+  "lon": 30.2895091,
+  "tags": {
+    "addr:housenumber": "17",
+    "addr:postcode": "199034",
+    "addr:street": "Университетская набережная",
+    "contact:email": "sekretar@nimrah.ru",
+    "contact:phone": "+7 999 0344553",
+    "contact:vk": "https://vk.com/academyoffineartsmuseum",
+    "contact:website": "http://artsacademymuseum.org",
+    "name": "Научно-исследовательский музей Российской академии художеств",
+    "name:fr": "Musée de l'académie des beaux-arts",
+    "opening_hours": "We 11:00-18:00; Th 12:00-19:00; Fr-Su 11:00-18:00",
+    "tourism": "museum",
+    "wikidata": "Q4314524",
+    "wikipedia": "ru:Музей Российской академии художеств"
+  }
+},
+{
+  "type": "node",
+  "id": 3517552088,
+  "lat": 59.9413485,
+  "lon": 30.2995685,
+  "tags": {
+    "name": "Палеонтолого-стратиграфический музей",
+    "name:en": "Paleontological-stratigraphic Museum",
+    "name:zh": "古生物-地层博物馆",
+    "opening_hours": "Mo-Fr 11:00-18:00",
+    "phone": "+7 812 3289480",
+    "tourism": "museum",
+    "website": "http://www.paleostratmuseum.ru/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3517569236,
+  "lat": 59.9449072,
+  "lon": 30.3006797,
+  "tags": {
+    "fee": "yes",
+    "name": "Литературный музей",
+    "name:en": "Literary Museum",
+    "name:es": "Palacio Pushkin",
+    "name:fr": "Musée de la littérature",
+    "name:zh": "文学博物馆",
+    "opening_hours": "Mo-Fr 11:00-16:00",
+    "phone": "+7 812 3280502",
+    "tourism": "museum",
+    "website": "http://www.pushkinskijdom.ru/Default.aspx?tabid=64",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3517582447,
+  "lat": 59.9457657,
+  "lon": 30.2852407,
+  "tags": {
+    "name": "Музей парфюмерии",
+    "note": "Экскурсии по предварительной договоренности.",
+    "phone": "+7 911 7424502",
+    "tourism": "museum",
+    "website": "http://parfmuzey.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 3517587744,
+  "lat": 59.9426032,
+  "lon": 30.2829732,
+  "tags": {
+    "name": "Музей повседневной культуры Ленинграда 1945-1965 гг.",
+    "note": "По предварительной записи возможно посещение в удобное для Вас время.",
+    "opening_hours": "Fr 11:00-19:00; Su 11:00-19:00",
+    "phone": "+7 911 7472301;+7 911 7472402",
+    "tourism": "museum",
+    "website": "http://1945-1965.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3518920451,
+  "lat": 59.9399387,
+  "lon": 30.2691330,
+  "tags": {
+    "addr:housenumber": "39",
+    "addr:street": "14-я линия В.О.",
+    "name": "Музей школы Карла Мая",
+    "phone": "+7 812 3283311",
+    "tourism": "museum",
+    "wikidata": "Q4360202",
+    "wikipedia": "ru:Петербургская школа Карла Мая"
+  }
+},
+{
+  "type": "node",
+  "id": 3519288139,
+  "lat": 59.9624100,
+  "lon": 30.3145671,
+  "tags": {
+    "name": "Музей С. М. Кирова",
+    "name:en": "Kirov Museum",
+    "name:es": "Sergei Kirov Museo",
+    "name:ru": "Музей С. М. Кирова",
+    "opening_hours": "Mo-Su 11:00-17:30; We off",
+    "phone": "+7 812 3460289",
+    "start_date": "1937",
+    "tourism": "museum",
+    "website": "http://www.kirovmuseum.ru/",
+    "wikidata": "Q43402289"
+  }
+},
+{
+  "type": "node",
+  "id": 3519376807,
+  "lat": 59.9657014,
+  "lon": 30.2949265,
+  "tags": {
+    "name": "Музей-квартира Елизаровых",
+    "opening_hours": "Mo-Sa 10:00-18:00; We, Su off",
+    "phone": "+7 812 2353778",
+    "source": "http://www.peterout.ru/art/museums/63/",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3519393646,
+  "lat": 59.9750342,
+  "lon": 30.3040556,
+  "tags": {
+    "name": "Искусство веера",
+    "opening_hours": "Tu-Su 11:00-19:30",
+    "phone": "+7 812 4994959",
+    "tourism": "museum",
+    "website": "http://www.mus.rusampir.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 3519457351,
+  "lat": 59.9604541,
+  "lon": 30.3005760,
+  "tags": {
+    "name": "Народный музей истории Санкт-Петербургской региональной организации Всероссийского общества слепых",
+    "opening_hours": "Mo-Sa 10:00-16:30",
+    "phone": "+7 812 2371790",
+    "tourism": "museum",
+    "website": "http://www.spbvos.ru/history/museum.php"
+  }
+},
+{
+  "type": "node",
+  "id": 3567008095,
+  "lat": 60.0761472,
+  "lon": 30.3661853,
+  "tags": {
+    "name": "Музей истории пивоварения",
+    "operator": "Завод «Балтика – Санкт-Петербург»",
+    "phone": "+7 800 3333303",
+    "source": "http://www.artnight.ru/program/muzei-istorii-pivovareniya",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3567020589,
+  "lat": 60.0007211,
+  "lon": 30.3356658,
+  "tags": {
+    "name": "Музей ГАИ",
+    "opening_hours": "Mo-Fr 11:00-17:00",
+    "phone": "+7 812 3019245",
+    "source": "http://muzej-gai.piter.tv/",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3567071823,
+  "lat": 59.9821286,
+  "lon": 30.4212215,
+  "tags": {
+    "name": "Мультисказка",
+    "phone": "+7 812 9059086;+7 812 9059086",
+    "tourism": "museum",
+    "website": "http://www.multiskazka.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3583975597,
+  "lat": 59.6836531,
+  "lon": 30.4425776,
+  "tags": {
+    "name": "Музей истории г. Павловска",
+    "source": "http://vk.com/club9232516",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3584332347,
+  "lat": 59.8686182,
+  "lon": 29.9813408,
+  "tags": {
+    "name": "Музей викингов",
+    "name:en": "The Viking Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3584378106,
+  "lat": 59.8774108,
+  "lon": 29.9297241,
+  "tags": {
+    "name": "Дворцовая телеграфная станция",
+    "name:es": "Estación de Telégrafo del Palacio",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3584451051,
+  "lat": 59.9962003,
+  "lon": 29.7630230,
+  "tags": {
+    "name": "Кронштадтский Морской музей",
+    "opening_hours": "We,Fr,Sa,Su 11:00-18:00",
+    "phone": "+7 812 3110300",
+    "tourism": "museum",
+    "website": "http://www.kronstadt.ru/mormuseum/mormus.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 3588556914,
+  "lat": 59.9416108,
+  "lon": 30.3288837,
+  "tags": {
+    "alt_name": "Тройной мост; Трёхарковый мост",
+    "name": "Трёхмостье",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3652849699,
+  "lat": 60.0615117,
+  "lon": 30.3188928,
+  "tags": {
+    "description": "Парк дворовой скульптуры, выполненной из пластиковых бутылок",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3658412519,
+  "lat": 59.9421804,
+  "lon": 30.4079236,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3702115194,
+  "lat": 59.9347199,
+  "lon": 30.3431283,
+  "tags": {
+    "contact:vk": "https://vk.com/fabergemuseum",
+    "name": "Музей Фаберже",
+    "name:de": "Fabergé-Museum",
+    "name:en": "Fabergé Museum",
+    "name:fr": "Musée Fabergé",
+    "name:it": "Museo Fabergé",
+    "name:ru": "Музей Фаберже",
+    "name:zh": "法贝热的博物馆",
+    "opening_hours": "10:00-20:45",
+    "operator": "Культурно-исторический фонд \"Связь Времён\"",
+    "payment:cash": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+7 812 3332655",
+    "tourism": "museum",
+    "website": "https://fabergemuseum.ru/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3702115489,
+  "lat": 59.9793024,
+  "lon": 30.2700127,
+  "tags": {
+    "name": "Елагин дворец",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3735242358,
+  "lat": 59.7183017,
+  "lon": 30.3991204,
+  "tags": {
+    "description": "Русские императоры и императрицы, их фаворитки и фавориты",
+    "name": "выставка \"Восковых персон. Любовь и власть\"",
+    "name:en": "exhibition of \"Wax figures. Love and power\"",
+    "operator": "Общество возрождения художественных традиций Руси",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3735242359,
+  "lat": 59.7174238,
+  "lon": 30.3986538,
+  "tags": {
+    "name": "выставка Придворный экипаж",
+    "name:en": "the Royal Court carriage exhibition",
+    "opening_hours": "Mo-Tu 10:00-18:00; Th-Su 10:00-18:00",
+    "operator": "ГМЗ \"Царское Село\"",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3783787133,
+  "lat": 59.9809608,
+  "lon": 30.2817859,
+  "tags": {
+    "amenity": "shelter",
+    "name": "Навес товарищества Железо-бетон 1908",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3812886328,
+  "lat": 59.9867928,
+  "lon": 30.1672444,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:country": "RU",
+    "addr:housenumber": "9",
+    "addr:letter": "А",
+    "addr:place": "Лахта",
+    "addr:postcode": "197229",
+    "addr:street": "Береговая улица",
+    "craft": "boatbuilder",
+    "name": "Историческая верфь \"Полтава\"",
+    "phone": "+7 812 2449833;+7 965 0082451",
+    "tourism": "museum",
+    "website": "http://poltava1712.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 3932750026,
+  "lat": 59.9494977,
+  "lon": 30.3760995,
+  "tags": {
+    "addr:housenumber": "56",
+    "addr:street": "Шпалерная улица",
+    "name": "Мир воды Санкт-Петербурга",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3932750027,
+  "lat": 59.9495117,
+  "lon": 30.3759840,
+  "tags": {
+    "name": "Подземный мир Санкт-Петербурга",
+    "opening_hours": "We-Su 10:00-19:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3937153654,
+  "lat": 59.9501043,
+  "lon": 30.3753068,
+  "tags": {
+    "name": "Вселенная воды",
+    "opening_hours": "We-Su 10:00-19:00",
+    "phone": "+7 812 4384375",
+    "tourism": "museum",
+    "website": "http://vodokanal-museum.ru/",
+    "wikidata": "Q4127329",
+    "wikipedia": "ru:Вселенная воды"
+  }
+},
+{
+  "type": "node",
+  "id": 3962381548,
+  "lat": 59.9311246,
+  "lon": 30.3365870,
+  "tags": {
+    "contact:vk": "https://vk.com/theatre_museum",
+    "description": "Санкт-Петербургский государственный музей театрального и музыкального искусства",
+    "name": "Музей театрального и музыкального искусства",
+    "name:en": "Museum of Theatre and Music",
+    "name:fr": "Musée du théâtre et de la musique",
+    "name:zh": "圣彼得堡国家博物馆的戏剧和音乐艺术",
+    "opening_hours": "Th-Mo 11:00-19:00; We 13:00-20:00; Tu off; Fr[-1] off",
+    "phone": "+7 812 3101029",
+    "tourism": "museum",
+    "website": "https://theatremuseum.ru/filial/muzey_teatralnogo_i_muzykalnogo_iskusstva",
+    "wikidata": "Q19911080"
+  }
+},
+{
+  "type": "node",
+  "id": 3999825271,
+  "lat": 59.9498594,
+  "lon": 30.3594785,
+  "tags": {
+    "description": "Памятник русскому линейному кораблю «Полтава»",
+    "historic": "memorial",
+    "memorial": "sculpture",
+    "name": "Памятный знак кораблю «Полтава»",
+    "name:en": "Poltava Warship",
+    "start_date": "2015-03-06",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4111597194,
+  "lat": 59.8990256,
+  "lon": 29.8621007,
+  "tags": {
+    "addr:housenumber": "8 к2",
+    "addr:street": "Приморская улица",
+    "name": "Дача Л.И. Крона",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4111597512,
+  "lat": 59.8990165,
+  "lon": 29.8600291,
+  "tags": {
+    "addr:housenumber": "8 к3",
+    "addr:street": "Приморская улица",
+    "name": "Дача А.А. Грубе",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4111598192,
+  "lat": 59.8989964,
+  "lon": 29.8634406,
+  "tags": {
+    "addr:housenumber": "8 к1",
+    "addr:street": "Приморская улица",
+    "name": "Дача Сан-Галли",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4111601646,
+  "lat": 59.8991177,
+  "lon": 29.8558974,
+  "tags": {
+    "addr:housenumber": "8 к4",
+    "addr:street": "Приморская улица",
+    "name": "Дача М.Н. Бенуа",
+    "name:en": "Cottage м.н. Benoit",
+    "name:es": "Cabaña м.н. Benoit",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4118498160,
+  "lat": 59.9417815,
+  "lon": 30.3042055,
+  "tags": {
+    "name": "Идолы",
+    "name:en": "Idols",
+    "name:es": "ídolos",
+    "tourism": "attraction",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4154163890,
+  "lat": 60.0899571,
+  "lon": 29.9646578,
+  "tags": {
+    "name": "Плотина Гаусмана",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4170316442,
+  "lat": 59.9919373,
+  "lon": 29.7812173,
+  "tags": {
+    "name": "Музей истории Кронштадта",
+    "opening_hours": "Mo-Su 11:00-18:00",
+    "phone": "+7 812 4350873",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4171192716,
+  "lat": 59.9488754,
+  "lon": 30.3164895,
+  "tags": {
+    "name": "Орудия пыток средневековья",
+    "name:en": "Torture instruments of the middle ages",
+    "name:fr": "Instruments de torture du moyen-âge",
+    "name:zh": "中世纪的酷刑工具",
+    "opening_hours": "Mo-Su 10:00-20:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4172662091,
+  "lat": 59.6669441,
+  "lon": 30.4033247,
+  "tags": {
+    "geological": "palaeontological_site",
+    "name": "Выход пород. р. Поповка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4173489109,
+  "lat": 59.9315433,
+  "lon": 30.3077275,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "Водомерный столб",
+    "tourism": "attraction",
+    "wikidata": "Q4420947",
+    "wikipedia": "ru:Система наблюдения за уровнем воды в Санкт-Петербурге"
+  }
+},
+{
+  "type": "node",
+  "id": 4200632325,
+  "lat": 59.7254383,
+  "lon": 30.3864096,
+  "tags": {
+    "name": "Ратная палата",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4217771773,
+  "lat": 59.9485382,
+  "lon": 30.3165557,
+  "tags": {
+    "name": "Полуденные пушки",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4223463489,
+  "lat": 59.9787059,
+  "lon": 30.3008843,
+  "tags": {
+    "name": "улица Лунных Кошек",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4226406296,
+  "lat": 59.9745191,
+  "lon": 30.2824428,
+  "tags": {
+    "historic": "memorial",
+    "image": "File:Дуб Петра Великого.jpg",
+    "name": "Дуб Петра Великого",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4235355689,
+  "lat": 59.8633969,
+  "lon": 29.9908558,
+  "tags": {
+    "name": "Усадьба Михайловка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4242525689,
+  "lat": 59.7726619,
+  "lon": 30.3290722,
+  "tags": {
+    "name": "Павильон \"Морская башня\"",
+    "name:en": "Naval tower",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4314055602,
+  "lat": 59.6882313,
+  "lon": 30.4557592,
+  "tags": {
+    "name": "Храм дружбы",
+    "name:en": "The Temple Of Friendship",
+    "name:zh": "寺庙的友谊",
+    "tourism": "attraction",
+    "wikidata": "Q4500794",
+    "wikipedia": "ru:Храм Дружбы (Павловск)"
+  }
+},
+{
+  "type": "node",
+  "id": 4343347407,
+  "lat": 59.8540419,
+  "lon": 30.0330453,
+  "tags": {
+    "historic": "palace",
+    "name": "Львовский дворец",
+    "tourism": "attraction",
+    "wikidata": "Q4271072",
+    "wikipedia": "ru:Львовский дворец"
+  }
+},
+{
+  "type": "node",
+  "id": 4343724029,
+  "lat": 59.9858102,
+  "lon": 29.7676282,
+  "tags": {
+    "name": "Чаша",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4344978392,
+  "lat": 59.9460063,
+  "lon": 30.2646121,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:housenumber": "70",
+    "addr:street": "12-13-я линии В.О.",
+    "email": "artmuza.spb@gmail.com",
+    "internet_access": "wlan",
+    "name": "творческий кластер Артмуза",
+    "name:en": "creative cluster Artmuza",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+7 812 3134703",
+    "tourism": "museum",
+    "website": "https://artmuza.spb.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 4346215814,
+  "lat": 59.9950200,
+  "lon": 29.7884873,
+  "tags": {
+    "name": "Военный дот",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4346247108,
+  "lat": 59.9921665,
+  "lon": 29.7781794,
+  "tags": {
+    "historic": "monument",
+    "name": "Федору Ушакову",
+    "name:ru": "Федору Ушакову",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4348956307,
+  "lat": 59.9857363,
+  "lon": 29.7679784,
+  "tags": {
+    "name": "Чаша",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4348956338,
+  "lat": 59.9851088,
+  "lon": 29.7708985,
+  "tags": {
+    "name": "Пёс и Кот",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4348982919,
+  "lat": 59.9891787,
+  "lon": 29.7615141,
+  "tags": {
+    "name": "Мина",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4348989697,
+  "lat": 59.9946834,
+  "lon": 29.7568119,
+  "tags": {
+    "name": "Пушка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4349017123,
+  "lat": 59.9948247,
+  "lon": 29.7647178,
+  "tags": {
+    "name": "Котёл",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4349017124,
+  "lat": 59.9946694,
+  "lon": 29.7654211,
+  "tags": {
+    "name": "Карта острова Котлин",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4350030891,
+  "lat": 59.9460042,
+  "lon": 30.3344456,
+  "tags": {
+    "fee": "no",
+    "name": "Музей истории Летнего сада",
+    "name:en": "Summer Garden History Museum",
+    "name:zh": "夏园",
+    "opening_hours": "We-Mo 10:00-18:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4355189769,
+  "lat": 59.9570468,
+  "lon": 30.3028399,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "orthodox",
+    "description": "На доме со стороны сквера надпись:\"На этом месте было явление Богородицы в 1890 году\". Явление Божией Матери прикованному к коляске мальчику Николаю Грачеву призошло в декабре 1890 г. ",
+    "name": "Место явления Богородицы в 1890 году",
+    "religion": "christian",
+    "source": "http://photos.wikimapia.org/p/00/01/56/00/47_big.jpg",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4355358793,
+  "lat": 59.9462908,
+  "lon": 30.3877009,
+  "tags": {
+    "name": "Музей-театр анимации \"Тарабум\"",
+    "opening_hours": "We-Fr 11:00-19:00; Tu, Sa-Su 10:00-20:00; Mo 11:00-18:00",
+    "operator": "ООО \"Тарабум\"",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4357254792,
+  "lat": 59.9558867,
+  "lon": 30.3113405,
+  "tags": {
+    "name": "Памятные кресла",
+    "name:ru": "Памятные кресла",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4357292889,
+  "lat": 59.9562070,
+  "lon": 30.3123808,
+  "tags": {
+    "name": "Памятные кресла",
+    "name:ru": "Памятные кресла",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4357819089,
+  "lat": 60.0197458,
+  "lon": 30.3712462,
+  "tags": {
+    "name": "Бенуарики у сада Бенуа",
+    "tourism": "attraction",
+    "website": "https://benua1890.ru/benuariki"
+  }
+},
+{
+  "type": "node",
+  "id": 4377032712,
+  "lat": 59.9493442,
+  "lon": 30.2939800,
+  "tags": {
+    "email": "pr@lenenergo.ru",
+    "name": "Истории энергетики Северо-Запада России",
+    "name:en": "History of Northwest Russia Energy",
+    "name:ru": "Истории энергетики Северо-Запада России",
+    "opening_hours": "24/7",
+    "phone": "+7 812 4943548",
+    "reservation": "required",
+    "tourism": "museum",
+    "website": "http://energomuseum.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 4377639990,
+  "lat": 59.9313947,
+  "lon": 30.3126597,
+  "tags": {
+    "name": "Усадьба Демидовых",
+    "name:ru": "Усадьба Демидовых",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4382955995,
+  "lat": 59.9127435,
+  "lon": 30.3479618,
+  "tags": {
+    "name": "Алые паруса",
+    "name:ru": "Алые паруса",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4384869089,
+  "lat": 59.9366680,
+  "lon": 30.3126363,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:street": "Невский проспект",
+    "name": "Дворик Ангела",
+    "name:ru": "Дворик Ангела",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4417542189,
+  "lat": 59.8040286,
+  "lon": 30.6048324,
+  "tags": {
+    "name": "Александр Невский и Ижорская земля",
+    "name:ru": "Александр Невский и Ижорская земля",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4429970120,
+  "lat": 59.8814568,
+  "lon": 30.2746682,
+  "tags": {
+    "name": "Музей старинного инструмента",
+    "opening_hours": "Mo-Sa 09:00-18:00; Su off",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4437884663,
+  "lat": 59.9369435,
+  "lon": 30.3172997,
+  "tags": {
+    "contact:phone": "+7 812 9385506",
+    "contact:vk": "https://vk.com/bm5spb",
+    "name": "Дом Великана",
+    "name:en": "Giant’s house",
+    "name:zh": "巨人之家",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "tourism": "attraction",
+    "website": "https://big-funny.com/sankt-peterburg/dom-velikana",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4437884664,
+  "lat": 59.9369791,
+  "lon": 30.3173011,
+  "tags": {
+    "contact:phone": "+7 812 9385506",
+    "contact:vk": "https://vk.com/bm5spb",
+    "name": "Стеклянный лабиринт",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "tourism": "attraction",
+    "website": "https://big-funny.com/v-sankt-peterburge/steklyannyj-labirint",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4437884665,
+  "lat": 59.9370111,
+  "lon": 30.3173024,
+  "tags": {
+    "contact:phone": "+7 812 9385506",
+    "contact:vk": "https://vk.com/bm5spb",
+    "name": "Музей иллюзий",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "tourism": "museum",
+    "website": "https://big-funny.com/sankt-peterburg/muzej-illyuzij",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4486774693,
+  "lat": 59.9560304,
+  "lon": 30.3148066,
+  "tags": {
+    "attraction": "quest_room",
+    "level": "-1",
+    "name": "iLocked",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4578562732,
+  "lat": 59.9266324,
+  "lon": 30.2800168,
+  "tags": {
+    "name": "А музы не молчали…",
+    "tourism": "museum",
+    "wikidata": "Q4313372"
+  }
+},
+{
+  "type": "node",
+  "id": 4585332933,
+  "lat": 59.9138337,
+  "lon": 30.2895437,
+  "tags": {
+    "name": "Музей христианской культуры в Санкт-Петербурге",
+    "tourism": "museum",
+    "website": "http://christianculture.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 4590740289,
+  "lat": 59.9368106,
+  "lon": 30.3285916,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Итальянская улица",
+    "email": "info@museumofemotions.ru",
+    "name": "Музей Эмоций",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "phone": "+7 812 7151235",
+    "tourism": "museum",
+    "website": "https://museumofemotions.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 4609809897,
+  "lat": 59.9217495,
+  "lon": 30.2493607,
+  "tags": {
+    "addr:housenumber": "30",
+    "addr:postcode": "199106",
+    "addr:street": "Кожевенная линия",
+    "email": "info@logistics-museum.ru",
+    "name": "Музей логистики",
+    "name:ru": "Музей логистики",
+    "opening_hours": "Sa-Su 12:00-17:00",
+    "phone": "+7 812 9449009",
+    "tourism": "museum",
+    "website": "http://www.logistics-museum.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 4679719891,
+  "lat": 59.9218883,
+  "lon": 30.2812255,
+  "tags": {
+    "name": "Доходный дом Шредера",
+    "name:ru": "Доходный дом Шредера",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4686789035,
+  "lat": 59.9166710,
+  "lon": 30.3237536,
+  "tags": {
+    "description": "Общегородской центр по теории и практике музейного дела; Выставочный зал",
+    "name": "Разночинный Петербург",
+    "tourism": "museum",
+    "website": "http://www.spbmmrp.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 4695707277,
+  "lat": 59.9233406,
+  "lon": 30.3275723,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:street": "Большой Казачий переулок",
+    "email": "4075220@mail.ru",
+    "name": "Разночинный Петербург",
+    "opening_hours": "Tu-Sa 11:00-17:00",
+    "phone": "+7 812 4075220",
+    "tourism": "museum",
+    "website": "http://www.spbmmrp.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 4701497789,
+  "lat": 59.9285677,
+  "lon": 30.2857533,
+  "tags": {
+    "name": "Особняк Шретера",
+    "name:ru": "Особняк Шретера",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4715187596,
+  "lat": 59.7170292,
+  "lon": 30.4081289,
+  "tags": {
+    "addr:housenumber": "56",
+    "addr:street": "Малая улица",
+    "name": "Памятник Наталье Николаевне, ожидающей Пушкина",
+    "name:ru": "Памятник Наталье Николаевне, ожидающей Пушкина",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4729314732,
+  "lat": 59.9525496,
+  "lon": 30.3133480,
+  "tags": {
+    "name": "пушка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4729652380,
+  "lat": 59.9376903,
+  "lon": 30.3403739,
+  "tags": {
+    "name": "Конюшни Михайловского замка",
+    "tourism": "attraction",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4740804291,
+  "lat": 59.9117975,
+  "lon": 30.2659068,
+  "tags": {
+    "name": "Музей истории пивоварения",
+    "opening_hours": "We,Fr 11:00-17:00",
+    "tourism": "museum",
+    "website": "http://www.heinekenrussia.ru/beer/museum_of_history_of_the_russian_beer/"
+  }
+},
+{
+  "type": "node",
+  "id": 4798307372,
+  "lat": 60.0597882,
+  "lon": 30.2930685,
+  "tags": {
+    "name": "Роспись",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4798307373,
+  "lat": 60.0607336,
+  "lon": 30.2923062,
+  "tags": {
+    "name": "Витраж",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4888980746,
+  "lat": 59.9361697,
+  "lon": 30.3185736,
+  "tags": {
+    "contact:instagram": "https://www.instagram.com/sweet_museum_spb/",
+    "contact:vk": "https://vk.com/sweetmuseum78",
+    "level": "1",
+    "name": "Сладкий музей",
+    "tourism": "attraction",
+    "website": "https://sweetmuseum.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 4889041320,
+  "lat": 59.9370874,
+  "lon": 30.3178610,
+  "tags": {
+    "contact:vk": "https://vk.com/wax_figures",
+    "name": "Alex Show",
+    "tourism": "museum",
+    "website": "http://www.wax.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 4889041322,
+  "lat": 59.9369019,
+  "lon": 30.3178452,
+  "tags": {
+    "contact:instagram": "https://www.instagram.com/dom__naoborot/",
+    "name": "Дом наоборот",
+    "opening_hours": "10:00-22:00",
+    "tourism": "attraction",
+    "website": "https://domnaoborot.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 4915750773,
+  "lat": 59.9368106,
+  "lon": 30.3130697,
+  "tags": {
+    "contact:vk": "https://vk.com/dvdspb",
+    "name": "Дом вверх дном",
+    "opening_hours": "12:00-23:30",
+    "tourism": "attraction",
+    "website": "https://domvverhdnom.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4924914493,
+  "lat": 59.9371171,
+  "lon": 30.3173067,
+  "tags": {
+    "contact:phone": "+7 812 9385506",
+    "contact:vk": "https://vk.com/bm5spb",
+    "name": "Внутри человека",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "tourism": "museum",
+    "website": "https://big-funny.com/v-sankt-peterburge/vnutri-cheloveka",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4944146825,
+  "lat": 59.9405536,
+  "lon": 30.2895132,
+  "tags": {
+    "contact:phone": "+7 812 9865090",
+    "contact:vk": "https://vk.com/spicemuseum",
+    "contact:website": "http://spicemuseum.com/",
+    "name": "Музей специй",
+    "name:ru": "Музей специй",
+    "opening_hours": "Mo-Su 11:00-21:00",
+    "payment:cash": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4947854607,
+  "lat": 59.9920221,
+  "lon": 29.7762033,
+  "tags": {
+    "name": "Рисунок в виде якоря",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4953958351,
+  "lat": 59.9428102,
+  "lon": 30.3180277,
+  "tags": {
+    "name": "Зимний дворец Петра I",
+    "name:en": "The Winter Palace of Peter the Great",
+    "name:fr": "Palais d'hiver de Pierre le Grand",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4972842021,
+  "lat": 59.9265317,
+  "lon": 30.3461739,
+  "tags": {
+    "name": "Трубочист",
+    "name:ru": "Трубочист",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5030292121,
+  "lat": 59.9283929,
+  "lon": 30.2945359,
+  "tags": {
+    "name": "2 якоря",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5044200103,
+  "lat": 59.9094820,
+  "lon": 29.7424042,
+  "tags": {
+    "natural": "stone",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5045333979,
+  "lat": 59.9856462,
+  "lon": 30.1674978,
+  "tags": {
+    "name": "Пушка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5045333980,
+  "lat": 59.9856424,
+  "lon": 30.1675542,
+  "tags": {
+    "name": "Пушка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5045333981,
+  "lat": 59.9856382,
+  "lon": 30.1676080,
+  "tags": {
+    "name": "Пушка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5045333993,
+  "lat": 59.9856720,
+  "lon": 30.1673754,
+  "tags": {
+    "name": "Колокол",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5060137721,
+  "lat": 60.1918478,
+  "lon": 29.7971165,
+  "tags": {
+    "name": "\"Зеленая дача\" Дом А. А. Ахматовой",
+    "name:ru": "\"Зеленая дача\" Дом А. А. Ахматовой",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5081308566,
+  "lat": 59.8994343,
+  "lon": 29.8451529,
+  "tags": {
+    "name": "Каменные ступени",
+    "natural": "stone",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5104501734,
+  "lat": 59.9365667,
+  "lon": 30.3263854,
+  "tags": {
+    "contact:vk": "https://vk.com/sovlifestylespb",
+    "level": "1",
+    "name": "Музей социалистического быта",
+    "opening_hours": "10:00-21:00",
+    "tourism": "museum",
+    "website": "https://sovietlife.spb.ru/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5136600985,
+  "lat": 59.9357981,
+  "lon": 30.3206615,
+  "tags": {
+    "name": "Выставка восковых фигур",
+    "opening_hours": "11:00-20:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5141182342,
+  "lat": 59.9589060,
+  "lon": 30.2189700,
+  "tags": {
+    "name": "Батискаф Тетис-Н",
+    "source": "http://www.deepstorm.ru/DeepStorm.files/45-92/cda/tetis/tetis9.htm",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5150429561,
+  "lat": 59.9403758,
+  "lon": 30.3324392,
+  "tags": {
+    "name": "Дуб черешчатый",
+    "name:la": "Quercus robur L.",
+    "name:ru": "Дуб черешчатый",
+    "natural": "tree",
+    "species": "Quercus robur L.",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5150436688,
+  "lat": 59.9464426,
+  "lon": 30.3362346,
+  "tags": {
+    "leaf_cycle": "deciduous",
+    "leaf_type": "broadleaved",
+    "name": "Дуб черешчатый",
+    "name:la": "Quercus robur L.",
+    "name:ru": "Дуб черешчатый",
+    "natural": "tree",
+    "species": "Quercus robur L.",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5184786380,
+  "lat": 59.9437486,
+  "lon": 30.3489335,
+  "tags": {
+    "name": "Музей истории войск Ленинградского военного округа",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5197651522,
+  "lat": 59.9956782,
+  "lon": 29.7017500,
+  "tags": {
+    "museum": "history",
+    "name": "Музей маячной службы",
+    "opening_hours": "Tu-Su 12:00-20:00",
+    "tourism": "museum",
+    "website": "https://kronfort.com/mayak/"
+  }
+},
+{
+  "type": "node",
+  "id": 5198972326,
+  "lat": 59.9419383,
+  "lon": 30.2094144,
+  "tags": {
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5198972327,
+  "lat": 59.9424408,
+  "lon": 30.2080142,
+  "tags": {
+    "name": "Винт",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5198972328,
+  "lat": 59.9415930,
+  "lon": 30.2087948,
+  "tags": {
+    "name": "Винт",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5198972329,
+  "lat": 59.9424448,
+  "lon": 30.2089423,
+  "tags": {
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5233792107,
+  "lat": 59.8691688,
+  "lon": 30.4840337,
+  "tags": {
+    "name": "Водонапорная башня Обуховского завода",
+    "name:ru": "Пристрельная башня",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5251698420,
+  "lat": 59.6896608,
+  "lon": 30.4609915,
+  "tags": {
+    "barrier": "gate",
+    "description": "руины ворот",
+    "historic": "yes",
+    "name": "Большие Старосильвийские ворота",
+    "name:en": "the ruins of the gate",
+    "ref:okn": "781620399040626",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5257740630,
+  "lat": 59.8758436,
+  "lon": 30.4371040,
+  "tags": {
+    "attraction": "urban",
+    "name": "Первый панельный дом в Ленинграде",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5324730821,
+  "lat": 59.8790696,
+  "lon": 30.4354423,
+  "tags": {
+    "description": "здание построенное в эпоху Конструктивизма, 1932г.",
+    "name": "Дом Колбаса",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5328104523,
+  "lat": 59.8519738,
+  "lon": 30.1685041,
+  "tags": {
+    "name": "Каток",
+    "opening_hours": "Mo-Fr 12:00-21:45; Sa-Su 11:00-21:45",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5401983229,
+  "lat": 59.9324474,
+  "lon": 30.3214690,
+  "tags": {
+    "contact:vk": "https://vk.com/titiqaqa",
+    "name": "Титикака",
+    "tourism": "museum",
+    "website": "https://titiqaqa.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 5423059522,
+  "lat": 59.8699209,
+  "lon": 30.2666815,
+  "tags": {
+    "description": "Памятная табличка \"В этом доме жил А.И.Маринеско\"",
+    "historic": "memorial",
+    "inscription": "В этом доме жил А.И.Маринеско",
+    "memorial": "plaque",
+    "name": "В этом доме жил Александр Иванович Маринеско",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5455073772,
+  "lat": 59.9602233,
+  "lon": 30.3879354,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:housenumber": "22",
+    "addr:street": "Свердловская набережная",
+    "name": "Дача Дурново",
+    "name:en": "Dacha Durnovo",
+    "tourism": "attraction",
+    "wikidata": "Q4155396",
+    "wikipedia": "ru:Дача Дурново"
+  }
+},
+{
+  "type": "node",
+  "id": 5468711123,
+  "lat": 59.8197084,
+  "lon": 30.0455709,
+  "tags": {
+    "name": "Блиндаж",
+    "tourism": "attraction",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5474042824,
+  "lat": 60.0259017,
+  "lon": 30.3037677,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:housenumber": "25",
+    "addr:street": "Афонская улица",
+    "name": "Солнечный город",
+    "note": "Детский развлекательный центр",
+    "opening_hours": "Mo-Su 10:00-20:00",
+    "phone": "+7 812 5096013",
+    "tourism": "attraction",
+    "website": "http://suntownspb.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 5587012377,
+  "lat": 59.9579663,
+  "lon": 30.3174772,
+  "tags": {
+    "email": "excursions@lenfilm.ru",
+    "name": "Ленфильм",
+    "opening_hours": "11:00-19:00",
+    "phone": "+7 812 6066503",
+    "reservation": "required",
+    "tourism": "museum",
+    "website": "http://www.lenfilm.ru/service/Ekskursii-lenfilm/"
+  }
+},
+{
+  "type": "node",
+  "id": 5598894204,
+  "lat": 59.9523499,
+  "lon": 30.2202130,
+  "tags": {
+    "attraction": "urban",
+    "material": "concrete",
+    "name": "Волна",
+    "playground": "structure",
+    "playground:theme": "wave",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5611436022,
+  "lat": 59.7114672,
+  "lon": 30.3869543,
+  "tags": {
+    "name": "Куча камней",
+    "name:en": "Hip of stones",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5611437221,
+  "lat": 59.7107579,
+  "lon": 30.3877708,
+  "tags": {
+    "name": "Красный каскад",
+    "name:en": "Red caskade",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5617505204,
+  "lat": 59.9408900,
+  "lon": 30.3290761,
+  "tags": {
+    "name": "Музей камня",
+    "name:en": "Museum of Stone",
+    "name:zh": "宝石博物馆",
+    "opening_hours": "10:00-17:30; We[3] off",
+    "tourism": "museum",
+    "website": "http://www.cathedral.ru/news/581",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5649720576,
+  "lat": 59.9391011,
+  "lon": 30.3256524,
+  "tags": {
+    "contact:vk": "https://vk.com/mr_66",
+    "name": "Route 66",
+    "tourism": "museum",
+    "website": "http://museumroute66.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 5652283508,
+  "lat": 59.9555549,
+  "lon": 30.2426375,
+  "tags": {
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5677291322,
+  "lat": 60.0115464,
+  "lon": 30.2498193,
+  "tags": {
+    "addr:street": "проспект Авиаконструкторов",
+    "name": "Статуя \"Семья\"",
+    "name:en": "Family",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5717654947,
+  "lat": 59.9641762,
+  "lon": 30.2858887,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:housenumber": "28",
+    "addr:street": "Большая Зеленина улица",
+    "description": "Доминантой главного фасада является огромный мозаичный фриз, состоящий из пяти больших мозаичных панно, созданных в 1905",
+    "name": "Доходный дом герцога Н. Н. Лейхтенбергского",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5730531921,
+  "lat": 59.8774171,
+  "lon": 29.9436936,
+  "tags": {
+    "name": "Лабиринт",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5730531926,
+  "lat": 59.8773133,
+  "lon": 29.9444873,
+  "tags": {
+    "name": "Винтовая лестница",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5761967953,
+  "lat": 59.9446646,
+  "lon": 30.3065919,
+  "tags": {
+    "name": "Мраморный шар",
+    "tourism": "attraction",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5761980053,
+  "lat": 59.9438261,
+  "lon": 30.3076275,
+  "tags": {
+    "name": "Мраморный шар",
+    "tourism": "attraction",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5774146592,
+  "lat": 59.9506423,
+  "lon": 30.3189436,
+  "tags": {
+    "name": "Восковые фигуры",
+    "name:fr": "Musée de cire",
+    "name:zh": "蠟像館",
+    "opening_hours": "Mo-Sa 10:30-19:00",
+    "tourism": "museum",
+    "website": "https://www.spbmuseum.ru/exhibits_and_exhibitions/92/46754/"
+  }
+},
+{
+  "type": "node",
+  "id": 5810252457,
+  "lat": 60.0080692,
+  "lon": 30.3941887,
+  "tags": {
+    "name": "Садик Маленького принца",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5810788758,
+  "lat": 59.9918866,
+  "lon": 29.7817524,
+  "tags": {
+    "addr:housenumber": "2Б",
+    "addr:postcode": "197762",
+    "addr:street": "Якорная площадь",
+    "email": "arxenekrohen@gmail.com",
+    "name": "Pile Contemporary",
+    "operator": "ArXeNeKrOCOHeN",
+    "tourism": "museum",
+    "website": "https://www.facebook.com/pilecontemporary/"
+  }
+},
+{
+  "type": "node",
+  "id": 5840250780,
+  "lat": 59.8498985,
+  "lon": 30.3151173,
+  "tags": {
+    "image": "https://web.archive.org/web/20180818183932if_/https://sites.google.com/site/pamatnikidruzamnasimmensim/_/rsrc/1484761956379/home/koty-sankt-peterburga/памятник бездомный кот.png",
+    "name": "Бездомный кот",
+    "note": "На archive.org потому, что сайт может исчезнуть в любой момент",
+    "opening_hours": "24/7",
+    "tourism": "attraction",
+    "url": "https://web.archive.org/web/20180818184503/https://sites.google.com/site/pamatnikidruzamnasimmensim/home/koty-sankt-peterburga",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5848829763,
+  "lat": 59.9897390,
+  "lon": 30.3140098,
+  "tags": {
+    "name": "Дерево посажено в честь 50-ти летия СССР трижды героем Советского Союза И. Н. Кожедубом в 1967 г.",
+    "natural": "tree",
+    "start_date": "1967",
+    "tourism": "attraction",
+    "wikipedia": "ru:Кожедуб, Иван Никитович"
+  }
+},
+{
+  "type": "node",
+  "id": 5860800760,
+  "lat": 59.9335554,
+  "lon": 30.3310874,
+  "tags": {
+    "name": "Музей истории купечества Санкт-Петербурга и России",
+    "phone": "+7 812 6300044",
+    "reservation": "required",
+    "tourism": "museum",
+    "website": "http://bgd.ru/muzey-istorii-kupechestva"
+  }
+},
+{
+  "type": "node",
+  "id": 5934862149,
+  "lat": 59.9291262,
+  "lon": 30.2701755,
+  "tags": {
+    "name": "Ординар",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5937426887,
+  "lat": 59.9186836,
+  "lon": 30.3385361,
+  "tags": {
+    "addr:floor": "2",
+    "name": "Мозг - вселенная",
+    "name:en": "Brainwork",
+    "opening_hours": "Mo-Su 12:00-22:00",
+    "phone": "+7 981 7853036",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5955769967,
+  "lat": 59.9283231,
+  "lon": 30.2649834,
+  "tags": {
+    "disused": "yes",
+    "heritage": "3",
+    "heritage:name": "Канатный цех с водонапорной башней завода «Красный гвоздильщик»",
+    "historic": "yes",
+    "man_made": "water_tower",
+    "name": "Водонапорная башня завода «Красный гвоздильщик»",
+    "ref:egrokn": "781410300340005",
+    "tourism": "attraction",
+    "wikidata": "Q4114106",
+    "wikipedia": "ru:Водонапорная башня завода «Красный гвоздильщик»"
+  }
+},
+{
+  "type": "node",
+  "id": 5976574486,
+  "lat": 59.9277753,
+  "lon": 30.3701466,
+  "tags": {
+    "name": "Красочный кот",
+    "name:en": "Nicely cat",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5982298887,
+  "lat": 60.0057662,
+  "lon": 30.3741965,
+  "tags": {
+    "name": "Гидробашня СПбПУ",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5994000988,
+  "lat": 59.9287676,
+  "lon": 30.2263369,
+  "tags": {
+    "name": "Западный Кроншпиц",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6011128894,
+  "lat": 60.0185208,
+  "lon": 29.6872526,
+  "tags": {
+    "name": "Парк Патриот",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6036415886,
+  "lat": 59.9292217,
+  "lon": 30.3590907,
+  "tags": {
+    "name": "Улица Джона Леннона",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6044197631,
+  "lat": 59.9556190,
+  "lon": 30.3119034,
+  "tags": {
+    "museum": "wax",
+    "name": "Музей восковых фигур",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6086174685,
+  "lat": 59.8852869,
+  "lon": 30.4242543,
+  "tags": {
+    "description": "паровоз, товарный вагон и тепловоз",
+    "historic": "locomotive",
+    "name": "Паровоз",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6087237485,
+  "lat": 59.8777521,
+  "lon": 30.2164885,
+  "tags": {
+    "name": "Маяк Лесной мол створный задний",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6120160629,
+  "lat": 59.9322604,
+  "lon": 30.3007345,
+  "tags": {
+    "description": "Макет верстового столба, от которого отсчитываются все расстояния от Петербурга до иных населённых пунктов.",
+    "name": "Нулевая верста",
+    "tourism": "attraction",
+    "wikidata": "Q329477",
+    "wikipedia": "ru:Нулевой километр"
+  }
+},
+{
+  "type": "node",
+  "id": 6146152008,
+  "lat": 59.9329887,
+  "lon": 30.3540068,
+  "tags": {
+    "addr:city": "Санкт-Петербург",
+    "addr:housenumber": "4",
+    "addr:postcode": "191025",
+    "addr:street": "улица Маяковского",
+    "amenity": "cafe",
+    "cuisine": "regional;русская;пельмени",
+    "email": "lepimivarimspb@gmail.com",
+    "internet_access": "no",
+    "name": "Лепим и варим",
+    "opening_hours": "11:00-23:00",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:electronic_purses": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:telephone_cards": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+7 921 9999010",
+    "smoking": "no",
+    "start_date": "13.10.2018",
+    "takeaway": "yes",
+    "tourism": "attraction",
+    "website": "lepimivarim.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 6196317886,
+  "lat": 59.9104245,
+  "lon": 30.3290195,
+  "tags": {
+    "addr:housenumber": "74Д",
+    "addr:street": "набережная Обводного канала",
+    "name": "Люмьер холл",
+    "name:en": "Lumiere-Hall",
+    "name:ru": "Люмьер-Холл",
+    "tourism": "museum",
+    "website": "https://www.lumierehall.ru/spb"
+  }
+},
+{
+  "type": "node",
+  "id": 6208012034,
+  "lat": 59.9286755,
+  "lon": 30.3231074,
+  "tags": {
+    "contact:vk": "https://vk.com/untruthmuseum",
+    "level": "0",
+    "name": "Музей неправды",
+    "tourism": "museum",
+    "website": "https://музейнеправды.рф/"
+  }
+},
+{
+  "type": "node",
+  "id": 6216327484,
+  "lat": 59.9472251,
+  "lon": 30.3388289,
+  "tags": {
+    "alt_name": "Мозаичный дворик",
+    "artist_name": "Лубенко Владимир Васильевич",
+    "artwork_type": "mosaic",
+    "contact:vk": "https://vk.com/club92830292",
+    "name": "Санкт-Петербург – Олимп культуры",
+    "operator:type": "public",
+    "phone": "+7 812 2732062",
+    "tourism": "museum",
+    "website": "http://vladimir-lubo.ru/mozaichniy-dvorik/"
+  }
+},
+{
+  "type": "node",
+  "id": 6237348586,
+  "lat": 59.8583663,
+  "lon": 30.3368491,
+  "tags": {
+    "name": "ДОТ рубежа «Ижора»",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6263883986,
+  "lat": 59.9484329,
+  "lon": 30.3176349,
+  "tags": {
+    "name:zh": "大炮在中午射擊",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6307077285,
+  "lat": 59.9430606,
+  "lon": 30.3550503,
+  "tags": {
+    "name": "Дом, где жил Маяковский",
+    "name:en": "The house where lived Mayakovskiy",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6307077286,
+  "lat": 59.9357937,
+  "lon": 30.3552348,
+  "tags": {
+    "name": "Дом, где жили Брики",
+    "name:en": "The house where lived Lilya Brik with husband",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6307077287,
+  "lat": 59.9294536,
+  "lon": 30.3438113,
+  "tags": {
+    "name": "Ленинградский рок-клуб",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6307077288,
+  "lat": 59.8587221,
+  "lon": 30.3154967,
+  "tags": {
+    "name": "Дом, в котором жил Борис Стругацкий",
+    "name:en": "Boris Strugatsky's house",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6307077585,
+  "lat": 59.9424161,
+  "lon": 30.3488451,
+  "tags": {
+    "name": "Дом Иосифа Бродского",
+    "name:en": "Brodskiy's house",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6352210785,
+  "lat": 59.8753039,
+  "lon": 30.4622768,
+  "tags": {
+    "name": "Дача Чернова",
+    "tourism": "attraction",
+    "website": "https://ru.wikipedia.org/wiki/Дача_Чернова"
+  }
+},
+{
+  "type": "node",
+  "id": 6400961110,
+  "lat": 59.9228813,
+  "lon": 30.3369749,
+  "tags": {
+    "name": "Музей из Лего Polekon",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6403146958,
+  "lat": 59.9405603,
+  "lon": 30.3234306,
+  "tags": {
+    "contact:vk": "https://vk.com/shadowmuseum",
+    "name": "Музей Теней",
+    "name:en": "Shadow Museum",
+    "name:ru": "Музей Теней",
+    "opening_hours": "11:00-22:00",
+    "tourism": "museum",
+    "website": "https://shadowmuseum.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 6418878186,
+  "lat": 59.7157835,
+  "lon": 30.3963517,
+  "tags": {
+    "name:en": "Catherine Palace",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6423089787,
+  "lat": 59.9221680,
+  "lon": 30.3539371,
+  "tags": {
+    "access": "yes",
+    "addr:housenumber": "101/1",
+    "addr:street": "Лиговский проспект",
+    "name": "Фреска из Италии",
+    "name:en": "Fresco from Italy",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6448381887,
+  "lat": 59.9881778,
+  "lon": 29.7759248,
+  "tags": {
+    "name": "Здесь располагался домик Петра I",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6468813385,
+  "lat": 59.9530208,
+  "lon": 30.3623888,
+  "tags": {
+    "name": "Музей тюрьмы Кресты",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6469040885,
+  "lat": 59.9762858,
+  "lon": 30.3051278,
+  "tags": {
+    "name": "Дача Громова",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6471077885,
+  "lat": 59.9314071,
+  "lon": 30.3043735,
+  "tags": {
+    "addr:postcode": "190000",
+    "alt_name": "Особняк Половцева",
+    "contact:email": "arcunion@mail.ru",
+    "contact:phone": "+7 962 7237179",
+    "contact:vk": "https://vk.com/dom_arhitektora_spb",
+    "contact:website": "http://www.arcunionspb.ru/o-nas/dom-arhitektora/",
+    "name": "Дом архитектора",
+    "name:ru": "Дом архитектора",
+    "opening_hours": "Sa 11:00-12:00; Su 12:00-13:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6484527466,
+  "lat": 59.8831355,
+  "lon": 29.9113244,
+  "tags": {
+    "name": "Дом игральных карт",
+    "opening_hours": "Tu-Su 10:30-18:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6484527467,
+  "lat": 59.8843467,
+  "lon": 29.9104352,
+  "tags": {
+    "fee": "yes",
+    "fixme": "Уточнить место",
+    "name": "Музей фонтанного дела",
+    "name:fr": "Musée de l’art de la fontaine",
+    "opening_hours": "Tu-Su 10:30-18:00; Tu[-1] off",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6484527479,
+  "lat": 59.8848654,
+  "lon": 29.9089886,
+  "tags": {
+    "access": "customers",
+    "entrance": "yes",
+    "fee": "yes",
+    "name": "Большой грот",
+    "name:fr": "Grande Grotte",
+    "opening_hours": "11:00-19:00",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6510187384,
+  "lat": 60.0777800,
+  "lon": 30.2991150,
+  "tags": {
+    "name": "Памятник В. П. Вологдину",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6510941398,
+  "lat": 59.9280705,
+  "lon": 30.3515827,
+  "tags": {
+    "name": "Дом русской сказки",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6514921585,
+  "lat": 59.9312851,
+  "lon": 30.3079572,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6533612689,
+  "lat": 59.9294913,
+  "lon": 30.3586166,
+  "tags": {
+    "name": "Арт-центр Пушкинская 10",
+    "name:en": "Art center Pushkinskaya 10",
+    "opening_hours": "We-Fr 16:00-20:00; Sa-Su 12:00-20:00",
+    "phone": "+78127645371",
+    "tourism": "museum",
+    "website": "http://www.p-10.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 6550962888,
+  "lat": 59.8633558,
+  "lon": 30.0012767,
+  "tags": {
+    "name": "Начало тропинки к дворцу",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6611417086,
+  "lat": 60.0068259,
+  "lon": 30.3139804,
+  "tags": {
+    "name": "Вольер с кроликами",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6659873985,
+  "lat": 59.7252432,
+  "lon": 30.3939579,
+  "tags": {
+    "name": "Фёдоровский городок",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6668007298,
+  "lat": 60.2040390,
+  "lon": 29.7989479,
+  "tags": {
+    "historic": "tomb",
+    "inscription": "Андрей Иванович Краско",
+    "name": "Андрей Краско",
+    "tourism": "attraction",
+    "wikipedia": "ru:Краско, Андрей Иванович"
+  }
+},
+{
+  "type": "node",
+  "id": 6668007299,
+  "lat": 60.2038538,
+  "lon": 29.8001468,
+  "tags": {
+    "historic": "tomb",
+    "inscription": "Сергей Анатольевич Курёхин",
+    "name": "Сергей Курёхин",
+    "tourism": "attraction",
+    "wikipedia": "ru:Курёхин, Сергей Анатольевич"
+  }
+},
+{
+  "type": "node",
+  "id": 6685637385,
+  "lat": 59.9440059,
+  "lon": 30.3445097,
+  "tags": {
+    "name": "Особняк Штифтера",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6687779485,
+  "lat": 59.9271706,
+  "lon": 30.3087671,
+  "tags": {
+    "name": "Дом исполнения желаний",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6687811585,
+  "lat": 59.9526413,
+  "lon": 30.3280915,
+  "tags": {
+    "name": "Дом политкаторжанин",
+    "name:ru": "Дом политкаторжан",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6695701926,
+  "lat": 59.9946007,
+  "lon": 29.7657714,
+  "tags": {
+    "name": "Герб Кронштадта",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6759802109,
+  "lat": 59.8761528,
+  "lon": 30.2534492,
+  "tags": {
+    "name": "Бронированная огневая точка «Ижорская башня»",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6759802110,
+  "lat": 59.8761343,
+  "lon": 30.2536535,
+  "tags": {
+    "name": "Долговременная огневая точка «Рубеж «Ижора»»",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6775279098,
+  "lat": 59.7466545,
+  "lon": 30.6113977,
+  "tags": {
+    "name": "Финский лось",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6832816785,
+  "lat": 59.9771159,
+  "lon": 30.2521444,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6834460924,
+  "lat": 59.9035702,
+  "lon": 29.8258411,
+  "tags": {
+    "name": "Заброшенная водоочистительная станция",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6837982593,
+  "lat": 59.9637180,
+  "lon": 30.3126450,
+  "tags": {
+    "name": "Музей граммофонов",
+    "phone": "+7 812 3462671",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6848293188,
+  "lat": 59.9627480,
+  "lon": 30.2896211,
+  "tags": {
+    "name": "Kunsthalle nummer sieben",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6854335986,
+  "lat": 60.1857540,
+  "lon": 29.7854850,
+  "tags": {
+    "name": "дача Ирины Линник",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6855167166,
+  "lat": 59.6975557,
+  "lon": 30.1328803,
+  "tags": {
+    "name": "Швейцарский домик (фундамент)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6860343285,
+  "lat": 59.9460639,
+  "lon": 30.2534256,
+  "tags": {
+    "name": "Музей св. Ксении Петербургской",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6865861985,
+  "lat": 59.9475628,
+  "lon": 30.2259683,
+  "tags": {
+    "name": "Дома на курьих ножках",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6892684092,
+  "lat": 59.9697027,
+  "lon": 30.3125821,
+  "tags": {
+    "name": "Мастерская Ветрогонского",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6934306793,
+  "lat": 60.1149898,
+  "lon": 30.2318732,
+  "tags": {
+    "addr:postcode": "194362",
+    "addr:street": "Песочное шоссе",
+    "name": "Заброшенная дача Фаберже",
+    "name:en": "Faberge's abandoned dacha",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7014693556,
+  "lat": 59.9623694,
+  "lon": 30.3968601,
+  "tags": {
+    "contact:email": "info@lenrezerv.ru",
+    "contact:phone": "+7 812 6551945;+7 921 5552542",
+    "contact:website": "http://lenrezerv.ru",
+    "name": "Ленрезерв",
+    "office": "ngo",
+    "reservation": "required",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7112611685,
+  "lat": 59.9330078,
+  "lon": 30.3152266,
+  "tags": {
+    "addr:street": "Гороховая улица",
+    "name": "Красный мост",
+    "name:en": "Red Bridge",
+    "tourism": "attraction",
+    "website": "https://mir-360.space/red-bridge/"
+  }
+},
+{
+  "type": "node",
+  "id": 7131874685,
+  "lat": 59.9324881,
+  "lon": 30.3215232,
+  "tags": {
+    "email": "quest@vzapertispb.ru",
+    "internet_access": "wlan",
+    "name": "Квесты в реальности \"Взаперти\"",
+    "name:en": "Escape rooms \"VZAPERTI\"",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "phone": "+7 911 9299522",
+    "tourism": "museum",
+    "website": "http://vzaperti.net"
+  }
+},
+{
+  "type": "node",
+  "id": 7167549885,
+  "lat": 59.9664559,
+  "lon": 30.2595852,
+  "tags": {
+    "name": "Летний дворец князей Белосельских-Белозерских",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7379721890,
+  "lat": 59.9760695,
+  "lon": 30.4949058,
+  "tags": {
+    "name": "Бывшая пожарная часть",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7413162885,
+  "lat": 59.8585196,
+  "lon": 30.0440700,
+  "tags": {
+    "name": "фонарный столб с дачи Кшенская",
+    "name:en": "light from Kshesinskaya village",
+    "name:ru": "фонарный столб с дачи Кшесинской",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7414476587,
+  "lat": 59.9432720,
+  "lon": 30.3197434,
+  "tags": {
+    "email": "andrey@rmseasons.com",
+    "name": "Русские Музыкальные Сезоны",
+    "name:en": "Russian Music Seasons",
+    "opening_hours": "Mo-Sa 12:00-21:30",
+    "operator": "Русские Музыкальные Сезоны",
+    "phone": "+7 911 7537569",
+    "tourism": "museum",
+    "website": "https://rmseasons.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7438705264,
+  "lat": 59.8040853,
+  "lon": 30.6043911,
+  "tags": {
+    "name": "Колодец",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7532311480,
+  "lat": 59.9353100,
+  "lon": 30.3073646,
+  "tags": {
+    "name": "Лев",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7532311481,
+  "lat": 59.9353430,
+  "lon": 30.3074471,
+  "tags": {
+    "name": "Лев",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7552322490,
+  "lat": 59.9288318,
+  "lon": 30.2273446,
+  "tags": {
+    "name": "Восточный Кроншпиц",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7598505593,
+  "lat": 60.0147256,
+  "lon": 30.0036718,
+  "tags": {
+    "name": "Руины",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7598505786,
+  "lat": 60.0125864,
+  "lon": 30.0137197,
+  "tags": {
+    "name": "Руины жд дорога",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7605781790,
+  "lat": 59.8540897,
+  "lon": 30.4175293,
+  "tags": {
+    "name": "ЖБОТ О-19",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7605804486,
+  "lat": 59.8343024,
+  "lon": 30.4608854,
+  "tags": {
+    "name": "ЖБОТ",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7633269376,
+  "lat": 59.9516205,
+  "lon": 30.3197229,
+  "tags": {
+    "historic": "bastion",
+    "name": "Меншиков бастион",
+    "name:en": "Menshikov Bastion",
+    "name:ru": "Меншиков бастион",
+    "tourism": "attraction",
+    "wikidata": "Q4290614",
+    "wikipedia": "ru:Меншиков бастион Петропавловской крепости"
+  }
+},
+{
+  "type": "node",
+  "id": 7633269377,
+  "lat": 59.9500625,
+  "lon": 30.3204364,
+  "tags": {
+    "historic": "bastion",
+    "name": "Государев бастион",
+    "name:en": "Gosudarev Bastion",
+    "name:ru": "Государев бастион",
+    "tourism": "attraction",
+    "wikidata": "Q4146531",
+    "wikipedia": "ru:Государев бастион Петропавловской крепости"
+  }
+},
+{
+  "type": "node",
+  "id": 7633269378,
+  "lat": 59.9487328,
+  "lon": 30.3173572,
+  "tags": {
+    "historic": "bastion",
+    "name": "Нарышкин бастион",
+    "name:en": "Naryshkin Bastion",
+    "name:ru": "Нарышкин бастион",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7633269379,
+  "lat": 59.9515937,
+  "lon": 30.3157210,
+  "tags": {
+    "historic": "bastion",
+    "name": "Головкин бастион",
+    "name:en": "Golovkin Bastion",
+    "name:ru": "Головкин бастион",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7633269380,
+  "lat": 59.9499014,
+  "lon": 30.3125828,
+  "tags": {
+    "historic": "bastion",
+    "name": "Зотов бастион",
+    "name:en": "Zotov Bastion",
+    "name:ru": "Зотов бастион",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7633269381,
+  "lat": 59.9485448,
+  "lon": 30.3133875,
+  "tags": {
+    "historic": "bastion",
+    "name": "Трубецкой бастион",
+    "name:en": "Trubetskoy Bastion",
+    "name:ru": "Трубецкой бастион",
+    "tourism": "attraction",
+    "wikidata": "Q4464181",
+    "wikipedia": "ru:Трубецкой бастион Петропавловской крепости"
+  }
+},
+{
+  "type": "node",
+  "id": 7637340685,
+  "lat": 59.7696347,
+  "lon": 30.3250620,
+  "tags": {
+    "name": "Мира",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7637340785,
+  "lat": 59.7691611,
+  "lon": 30.3250584,
+  "tags": {
+    "name": "Мира",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7637340885,
+  "lat": 59.7679787,
+  "lon": 30.3218384,
+  "tags": {
+    "name": "Фокусер Большого пулковского радиотелескопа",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7637341085,
+  "lat": 59.7675529,
+  "lon": 30.3339363,
+  "tags": {
+    "name": "астрономический павильон",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7650288586,
+  "lat": 59.9277027,
+  "lon": 30.2427220,
+  "tags": {
+    "historic": "anchor",
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7677808945,
+  "lat": 59.9850534,
+  "lon": 30.3042881,
+  "tags": {
+    "historic": "anchor",
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7677808946,
+  "lat": 59.9851285,
+  "lon": 30.3039113,
+  "tags": {
+    "historic": "anchor",
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7677808950,
+  "lat": 59.9837828,
+  "lon": 30.3026935,
+  "tags": {
+    "historic": "cannon",
+    "name": "Пушка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7677808951,
+  "lat": 59.9836533,
+  "lon": 30.3033815,
+  "tags": {
+    "historic": "cannon",
+    "name": "Пушка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7677808952,
+  "lat": 59.9837861,
+  "lon": 30.3026560,
+  "tags": {
+    "historic": "anchor",
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7677808953,
+  "lat": 59.9836452,
+  "lon": 30.3034177,
+  "tags": {
+    "historic": "anchor",
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7682944285,
+  "lat": 59.8953355,
+  "lon": 29.8363681,
+  "tags": {
+    "name": "Английский домик",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7682944286,
+  "lat": 59.8964649,
+  "lon": 29.8341382,
+  "tags": {
+    "name": "Ферма",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7682961185,
+  "lat": 59.8983629,
+  "lon": 29.8275731,
+  "tags": {
+    "name": "Водонапорная башня",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7682971885,
+  "lat": 59.8975713,
+  "lon": 29.8266109,
+  "tags": {
+    "name": "Мордвиновские дубы",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7683313386,
+  "lat": 59.8910800,
+  "lon": 29.8416242,
+  "tags": {
+    "name": "Экипажные сараи",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7683313387,
+  "lat": 59.8945695,
+  "lon": 29.8424161,
+  "tags": {
+    "image": "https://lh3.googleusercontent.com/pw/ACtC-3cf4cI6yViN7CmWyEby_dk4jq_T20-x6X9Dnj9QA0KL4pH01uNBDujVz0wxJXTEbvYRlu3udF9TGs7FZEfZmu72IPoXTa5UH1VqFIyXpKpnHJcosMOihuMgLdwGAzwNIEiA6xEXI7Y7qK0EzGOF3KI2=w1280-h720-no?authuser=0",
+    "name": "Пергола",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7683328785,
+  "lat": 59.8958186,
+  "lon": 29.8345100,
+  "tags": {
+    "name": "Оранжерея",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7683328786,
+  "lat": 59.8953417,
+  "lon": 29.8341822,
+  "tags": {
+    "name": "Оранжерея",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7683328787,
+  "lat": 59.8946301,
+  "lon": 29.8342896,
+  "tags": {
+    "name": "Оранжерея",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7743166878,
+  "lat": 59.9415102,
+  "lon": 30.3448177,
+  "tags": {
+    "name": "Метеорологический павильон",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777790488,
+  "lat": 59.7123005,
+  "lon": 30.4236680,
+  "tags": {
+    "name": "Дача князя Б.В.Романова",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777794721,
+  "lat": 59.7156232,
+  "lon": 30.4152619,
+  "tags": {
+    "addr:housenumber": "1Б",
+    "addr:street": "Набережная улица",
+    "name": "Ассигнационная фабрика",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777836985,
+  "lat": 59.7145666,
+  "lon": 30.4222847,
+  "tags": {
+    "name": "Дача А.А. Эбермана",
+    "name:ru": "Дача А.А.Эбермана",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777844686,
+  "lat": 59.7109559,
+  "lon": 30.4070785,
+  "tags": {
+    "name": "Дом Н.Н.Комстадиуса",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777852685,
+  "lat": 59.7133030,
+  "lon": 30.4272560,
+  "tags": {
+    "name": "Дача А.Р.Синевой",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777852686,
+  "lat": 59.7103848,
+  "lon": 30.4141397,
+  "tags": {
+    "name": "Дача М.Р.Ростовцевой",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777852687,
+  "lat": 59.7094244,
+  "lon": 30.4147697,
+  "tags": {
+    "name": "Дача З.И.Юсуповой",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777865485,
+  "lat": 59.7130124,
+  "lon": 30.4281990,
+  "tags": {
+    "name": "Дача Ф.А.Амброжевича",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777865486,
+  "lat": 59.7087834,
+  "lon": 30.4151123,
+  "tags": {
+    "name": "Кухня дачи З.И.Юсуповой",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777865487,
+  "lat": 59.7080839,
+  "lon": 30.4176906,
+  "tags": {
+    "name": "Родильный приют М.А.Дрожжиной",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777871685,
+  "lat": 59.7115800,
+  "lon": 30.4105857,
+  "tags": {
+    "name": "Дача П.А.Раухфуса",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777871686,
+  "lat": 59.7109376,
+  "lon": 30.4124626,
+  "tags": {
+    "name": "Магазин Гвардейского экономического общества",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777890086,
+  "lat": 59.7105172,
+  "lon": 30.4044271,
+  "tags": {
+    "name": "Особняк графа В.В.Гудовича",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777890088,
+  "lat": 59.7083061,
+  "lon": 30.3939533,
+  "tags": {
+    "name": "Гаупвахта Гусарского полка",
+    "name:ru": "Гауптвахта Гусарского полка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777922385,
+  "lat": 59.7107166,
+  "lon": 30.4057173,
+  "tags": {
+    "name": "Дом И.С.Мальцева",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777947186,
+  "lat": 59.7194886,
+  "lon": 30.4037699,
+  "tags": {
+    "name": "Мариинская женская гимназия",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777968686,
+  "lat": 59.7195129,
+  "lon": 30.4060372,
+  "tags": {
+    "name": "Гостиный Двор",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777981785,
+  "lat": 59.7196553,
+  "lon": 30.4033368,
+  "tags": {
+    "name": "Дом Канобио",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777981888,
+  "lat": 59.7183063,
+  "lon": 30.4096957,
+  "tags": {
+    "name": "Ратуша",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777982787,
+  "lat": 59.7167555,
+  "lon": 30.3994792,
+  "tags": {
+    "name": "Дом Н.М.Карамзина",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777992685,
+  "lat": 59.7139819,
+  "lon": 30.4087896,
+  "tags": {
+    "name": "Шталмейстерский флигель",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777992785,
+  "lat": 59.7141643,
+  "lon": 30.4075231,
+  "tags": {
+    "name": "Нижние конюшни",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777992786,
+  "lat": 59.7131960,
+  "lon": 30.4107839,
+  "tags": {
+    "name": "Запасной дворец",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777994685,
+  "lat": 59.7147908,
+  "lon": 30.4058175,
+  "tags": {
+    "name": "Придворный манеж",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777997685,
+  "lat": 59.7161915,
+  "lon": 30.4011890,
+  "tags": {
+    "name": "Большая оранжерея",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777997686,
+  "lat": 59.7070945,
+  "lon": 30.4066915,
+  "tags": {
+    "name": "Управление Офицерской артиллерийской школой",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777999385,
+  "lat": 59.7169460,
+  "lon": 30.4000068,
+  "tags": {
+    "name": "Дуб Жуковского",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7777999386,
+  "lat": 59.7101372,
+  "lon": 30.4080278,
+  "tags": {
+    "name": "Дом В.П.Кочубея",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7778020985,
+  "lat": 59.7088073,
+  "lon": 30.4137007,
+  "tags": {
+    "name": "Дом Н.СЧавчавадзе",
+    "name:ru": "Дом Н.С.Чавчавадзе",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7778021085,
+  "lat": 59.7091309,
+  "lon": 30.4134411,
+  "tags": {
+    "name": "Флигель дома Н.С.Чавчавадзе",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7778024685,
+  "lat": 59.7094881,
+  "lon": 30.4129897,
+  "tags": {
+    "name": "Дом коллежского советника Г.А.Стратановича",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7778040385,
+  "lat": 59.7060639,
+  "lon": 30.4105259,
+  "tags": {
+    "name": "Офицерское собрание артиллерийской школы",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7778043985,
+  "lat": 59.7023745,
+  "lon": 30.4031699,
+  "tags": {
+    "name": "Казармы 3-го Стрелкового полка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7778052785,
+  "lat": 59.7126075,
+  "lon": 30.4125391,
+  "tags": {
+    "name": "Кавалерский корпус Запасного дворца",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7780657985,
+  "lat": 59.9235621,
+  "lon": 30.3084901,
+  "tags": {
+    "name": "Горгульи",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7794915044,
+  "lat": 59.9370459,
+  "lon": 30.3173038,
+  "tags": {
+    "name": "Movie Art",
+    "tourism": "attraction",
+    "website": "https://big-funny.com/v-sankt-peterburge/movie-art"
+  }
+},
+{
+  "type": "node",
+  "id": 7794915045,
+  "lat": 59.9371830,
+  "lon": 30.3173093,
+  "tags": {
+    "name": "Ленточный лабиринт",
+    "tourism": "attraction",
+    "website": "https://big-funny.com/v-sankt-peterburge/lentochnyj-labirint"
+  }
+},
+{
+  "type": "node",
+  "id": 7810092631,
+  "lat": 59.7217491,
+  "lon": 30.3774212,
+  "tags": {
+    "fee": "yes",
+    "name": "Царскосельский арсенал. Императорская коллекция оружия",
+    "name:en": "The Imperial Arms Collection",
+    "opening_hours": "Tu-Su 11:00-17:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7812453485,
+  "lat": 59.9795712,
+  "lon": 29.7461271,
+  "tags": {
+    "name": "Форт Кроншлот",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7814389885,
+  "lat": 60.1942698,
+  "lon": 29.8129112,
+  "tags": {
+    "addr:street": "1-я Дачная улица",
+    "name": "Выставка ParcArt",
+    "name:en": "ParcArt",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7815540675,
+  "lat": 59.9362906,
+  "lon": 30.3160965,
+  "tags": {
+    "name": "Птичий дворик",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7819918286,
+  "lat": 59.9330304,
+  "lon": 30.3474844,
+  "tags": {
+    "name": "Музей магии",
+    "name:en": "Magic museum",
+    "opening_hours": "Mo-Su 10:00-21:00",
+    "tourism": "museum",
+    "website": "https://magicmuseum.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 7820574485,
+  "lat": 59.9169767,
+  "lon": 30.2950478,
+  "tags": {
+    "name": "Дом из кинофильма \"Питер FM\"",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7829213587,
+  "lat": 60.1996007,
+  "lon": 29.5701562,
+  "tags": {
+    "alt_name": "Смерть-гора",
+    "name": "Гора смерти",
+    "opening_hours": "24/7",
+    "reservation": "no",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7834855785,
+  "lat": 60.0254823,
+  "lon": 30.3851970,
+  "tags": {
+    "name": "Голубятня",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7837230585,
+  "lat": 60.0193947,
+  "lon": 30.3723763,
+  "tags": {
+    "name": "Пасечник",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7876544949,
+  "lat": 59.9180425,
+  "lon": 30.3303761,
+  "tags": {
+    "name": "Витебский вокзал, Императорский павильон",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7876626150,
+  "lat": 59.7313139,
+  "lon": 30.3840781,
+  "tags": {
+    "name": "Станция «Императорский вокзал»",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7876674212,
+  "lat": 59.7414782,
+  "lon": 30.4027972,
+  "tags": {
+    "name": "Остатки Императорского моста №4",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7876674213,
+  "lat": 59.7471077,
+  "lon": 30.4023072,
+  "tags": {
+    "name": "Остатки Императорского моста №5",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7876674233,
+  "lat": 59.7427591,
+  "lon": 30.3689576,
+  "tags": {
+    "name": "Остатки Императорского моста №6",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7890314806,
+  "lat": 59.9231867,
+  "lon": 30.3088474,
+  "tags": {
+    "contact:vk": "https://vk.com/modelizm_cmrt",
+    "name": "Центр железнодорожного моделизма",
+    "operator": "ФГБУК «Центральный музей железнодорожного транспорта Российской Федерации»",
+    "tourism": "museum",
+    "website": "http://cmzt.narod.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 7893191785,
+  "lat": 59.7881623,
+  "lon": 30.4950588,
+  "tags": {
+    "name": "Мост глупости",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7905857185,
+  "lat": 60.0033257,
+  "lon": 30.4228086,
+  "tags": {
+    "name": "Крокодил",
+    "name:en": "Crocodile",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7923627585,
+  "lat": 59.9352817,
+  "lon": 30.3118829,
+  "tags": {
+    "name": "Пиковый перекрёсток",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7925364885,
+  "lat": 59.9473262,
+  "lon": 30.3529777,
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:street": "Захарьевская улица",
+    "name": "Герои из Советских Мультиков",
+    "name:en": "Heroes from Soviet Cartoons",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7932398588,
+  "lat": 59.9470523,
+  "lon": 30.3391426,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "улица Чайковского",
+    "name": "Мозаичный дворик",
+    "opening_hours": "24/7",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7934280185,
+  "lat": 59.9276598,
+  "lon": 30.3503587,
+  "tags": {
+    "name": "Голубая парадная",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7934288485,
+  "lat": 59.9279115,
+  "lon": 30.3383472,
+  "tags": {
+    "name": "Парадная Ромашка",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7934891285,
+  "lat": 59.9397933,
+  "lon": 30.3230605,
+  "tags": {
+    "name": "Белая парадная",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7934891586,
+  "lat": 59.9475638,
+  "lon": 30.3417949,
+  "tags": {
+    "name": "Желтый дом",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7934893685,
+  "lat": 59.9283978,
+  "lon": 30.3391169,
+  "tags": {
+    "name": "Красивый лифт",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7939709985,
+  "lat": 59.9397591,
+  "lon": 30.3234534,
+  "tags": {
+    "name": "Особняк Слепцова",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7944616085,
+  "lat": 59.9951388,
+  "lon": 29.7463355,
+  "tags": {
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7944899385,
+  "lat": 60.0235448,
+  "lon": 29.6737195,
+  "tags": {
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7950894595,
+  "lat": 59.9256385,
+  "lon": 30.3571399,
+  "tags": {
+    "name": "Центр современного искусства им. Курехина",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7956139386,
+  "lat": 60.0934997,
+  "lon": 29.9442935,
+  "tags": {
+    "name": "дача Зощенко",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7961170781,
+  "lat": 60.0028239,
+  "lon": 30.0024524,
+  "tags": {
+    "name": "Солнечные часы",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7962631075,
+  "lat": 59.8623852,
+  "lon": 29.9984816,
+  "tags": {
+    "name": "Дворец в.к. Михаила Николаевича",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7987908585,
+  "lat": 60.1903855,
+  "lon": 29.6948155,
+  "tags": {
+    "name": "Дача Мюзера",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7987910285,
+  "lat": 60.1868493,
+  "lon": 29.7284777,
+  "tags": {
+    "name": "Дача О. Кирхнера",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7988252185,
+  "lat": 60.1869753,
+  "lon": 29.7237756,
+  "tags": {
+    "name": "Дача Р. Кинга",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7988259885,
+  "lat": 60.1934802,
+  "lon": 29.6954203,
+  "tags": {
+    "name": "Историческое здание",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7988262085,
+  "lat": 60.1932006,
+  "lon": 29.6764985,
+  "tags": {
+    "name": "Дача Й. Гинцеля",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7988267485,
+  "lat": 60.1934922,
+  "lon": 29.7184322,
+  "tags": {
+    "name": "Дача С. Н. Захарова",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7988267486,
+  "lat": 60.1905874,
+  "lon": 29.7514936,
+  "tags": {
+    "name": "Дача Н. Н. Слободзинского",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7988269786,
+  "lat": 60.1909449,
+  "lon": 29.7484866,
+  "tags": {
+    "name": "Дача Н. А. Демидовцева",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7998009685,
+  "lat": 60.1930953,
+  "lon": 29.7374831,
+  "tags": {
+    "name": "Вилла Анино",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7998010086,
+  "lat": 60.1881669,
+  "lon": 29.6908332,
+  "tags": {
+    "name": "Дача Францена",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7998014087,
+  "lat": 60.1920876,
+  "lon": 29.6475762,
+  "tags": {
+    "name": "Дача Заеца",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7998020585,
+  "lat": 60.1858569,
+  "lon": 29.8110830,
+  "tags": {
+    "name": "Дом Хиетанена",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7998030485,
+  "lat": 60.1785623,
+  "lon": 29.8187651,
+  "tags": {
+    "name": "Дача Ф Углова",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7998042985,
+  "lat": 60.1887690,
+  "lon": 29.8034810,
+  "tags": {
+    "name": "Дача Шляпужникова",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8017030585,
+  "lat": 60.1907289,
+  "lon": 29.6622696,
+  "tags": {
+    "name": "Дача Е. И. Лумберг",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8039937502,
+  "lat": 59.9358056,
+  "lon": 30.3935896,
+  "tags": {
+    "contact:vk": "https://vk.com/professmuseum",
+    "name": "Музей истории профессионального образования",
+    "operator": "ГБНОУ Дворец учащейся молодежи Санкт-Петербурга",
+    "tourism": "museum",
+    "website": "http://profmuseum.spb.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 8065696521,
+  "lat": 59.9317144,
+  "lon": 30.3531218,
+  "tags": {
+    "contact:email": "retrotehnomed@mail.ru",
+    "contact:instagram": "https://instagram.com/retrofarmomed",
+    "contact:phone": "+7 812 4122027;+7 921 9077531",
+    "contact:vk": "https://vk.com/retrofarmomed",
+    "contact:website": "https://rfm.spb.ru/",
+    "name": "Музей истории медицины и фармации",
+    "opening_hours": "Mo-Su 11:00-19:00",
+    "operator": "Музей истории медицины и фармации",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 8071191585,
+  "lat": 59.9778281,
+  "lon": 30.2928078,
+  "tags": {
+    "name": "Особняк княгини П.Ф.Веревкиной",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8071223117,
+  "lat": 59.9782770,
+  "lon": 30.2996578,
+  "tags": {
+    "name": "Оранжереи Каменноостровского дворца",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8071287124,
+  "lat": 59.9801319,
+  "lon": 30.2798627,
+  "tags": {
+    "name": "Особняк Яковенко",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8071304417,
+  "lat": 59.9795584,
+  "lon": 30.2806247,
+  "tags": {
+    "name": "Служебный флигель",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8071342317,
+  "lat": 59.9749869,
+  "lon": 30.2769866,
+  "tags": {
+    "name": "Якорь",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8071351617,
+  "lat": 59.9765527,
+  "lon": 30.2781856,
+  "tags": {
+    "name": "Особняк Соловейчик",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8072415318,
+  "lat": 59.9774913,
+  "lon": 30.2796380,
+  "tags": {
+    "name": "Особняк Мельцера",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8072439517,
+  "lat": 59.9769191,
+  "lon": 30.2919473,
+  "tags": {
+    "name": "Дом княгини Кугушевой",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8072439518,
+  "lat": 59.9771904,
+  "lon": 30.2836660,
+  "tags": {
+    "name": "Дом Гозе",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8072461317,
+  "lat": 59.9740539,
+  "lon": 30.2864958,
+  "tags": {
+    "name": "Дача Петровой",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8072472252,
+  "lat": 59.9771454,
+  "lon": 30.2939098,
+  "tags": {
+    "name": "Дом В.М.Бехтерева",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8072480017,
+  "lat": 59.9746180,
+  "lon": 30.2857224,
+  "tags": {
+    "name": "Дом Руадзе",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8072482817,
+  "lat": 59.9747416,
+  "lon": 30.2874487,
+  "tags": {
+    "name": "Дом Мертенса",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8072497317,
+  "lat": 59.9773347,
+  "lon": 30.2846742,
+  "tags": {
+    "name": "Дача Свиягина",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8072556717,
+  "lat": 59.9813881,
+  "lon": 30.2975246,
+  "tags": {
+    "name": "Инвалидный дом императора Павла I",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8072558417,
+  "lat": 59.9786598,
+  "lon": 30.3006490,
+  "tags": {
+    "name": "Гауптвахта Каменноостровского дворца",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8072559818,
+  "lat": 59.9761136,
+  "lon": 30.2930475,
+  "tags": {
+    "name": "Дача Е.П.Леоновой (Дом Апраксина)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8072561817,
+  "lat": 59.9789577,
+  "lon": 30.2953683,
+  "tags": {
+    "name": "Особняк С.И.Михина",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8072569218,
+  "lat": 59.9746984,
+  "lon": 30.2846866,
+  "tags": {
+    "name": "Дача Ульяновых",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8073951218,
+  "lat": 59.9757986,
+  "lon": 30.2874259,
+  "tags": {
+    "name": "Особняк В.С.Лихаревой",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8073951219,
+  "lat": 59.9753901,
+  "lon": 30.2803751,
+  "tags": {
+    "name": "Собственная дача Его Императорского Величества",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8073951220,
+  "lat": 59.9799005,
+  "lon": 30.2804182,
+  "tags": {
+    "name": "Особняк Ф.И.Доливо-Добровольской",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8073951221,
+  "lat": 59.9802608,
+  "lon": 30.2949783,
+  "tags": {
+    "name": "Приют К.О.Ананьевой",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8073951222,
+  "lat": 59.9782741,
+  "lon": 30.2968795,
+  "tags": {
+    "name": "Флигель дачи принца Ольденбургского",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8073960917,
+  "lat": 59.9740195,
+  "lon": 30.2857002,
+  "tags": {
+    "name": "Дача Е.И.Кожевниковой",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8073960918,
+  "lat": 59.9785390,
+  "lon": 30.2798852,
+  "tags": {
+    "name": "Собственный дом В.И.Шене",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8073961017,
+  "lat": 59.9772494,
+  "lon": 30.2787473,
+  "tags": {
+    "name": "Флигель особняка Р.Ф.Мельцера",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8073964118,
+  "lat": 59.9762919,
+  "lon": 30.2886861,
+  "tags": {
+    "name": "Дача К-1",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8073990217,
+  "lat": 59.9741174,
+  "lon": 30.2786116,
+  "tags": {
+    "name": "Гребная база СПбГМТУ",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8098788517,
+  "lat": 59.9535640,
+  "lon": 30.2905271,
+  "tags": {
+    "name": "Доходный дом Н.С.Занина, двор-колодец",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121106819,
+  "lat": 59.8782324,
+  "lon": 29.9240017,
+  "tags": {
+    "name": "Дом Струкова",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121128617,
+  "lat": 59.8783103,
+  "lon": 29.9227579,
+  "tags": {
+    "name": "Дом командира Уланского полка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121129517,
+  "lat": 59.8784203,
+  "lon": 29.9218036,
+  "tags": {
+    "name": "Здание почтового отделения",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121131417,
+  "lat": 59.8776791,
+  "lon": 29.9235039,
+  "tags": {
+    "name": "Дом Пальгунова",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121134017,
+  "lat": 59.8779336,
+  "lon": 29.9268776,
+  "tags": {
+    "name": "Дом служителей фермы",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121135469,
+  "lat": 59.8784009,
+  "lon": 29.9447438,
+  "tags": {
+    "name": "Чугунная беседка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121135470,
+  "lat": 59.8777762,
+  "lon": 29.9472292,
+  "tags": {
+    "name": "Кавалерский дом",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121135471,
+  "lat": 59.8798531,
+  "lon": 29.9485569,
+  "tags": {
+    "name": "Константиновский домик",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121135554,
+  "lat": 59.8777707,
+  "lon": 29.9467572,
+  "tags": {
+    "name": "Кухонный корпус",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121135817,
+  "lat": 59.8786761,
+  "lon": 29.9330378,
+  "tags": {
+    "name": "Кухонный корпус",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121137117,
+  "lat": 59.8783093,
+  "lon": 29.9330435,
+  "tags": {
+    "name": "Фельдъегерский домик",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 8121137118,
+  "lat": 59.8794136,
+  "lon": 29.9325937,
+  "tags": {
+    "name": "Детская каланча",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121144217,
+  "lat": 59.8796793,
+  "lon": 29.9342090,
+  "tags": {
+    "name": "Детская крепость",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121167618,
+  "lat": 59.8752232,
+  "lon": 29.9441897,
+  "tags": {
+    "name": "Верхняя караулка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121176017,
+  "lat": 59.8767817,
+  "lon": 29.9462981,
+  "tags": {
+    "name": "Конюшенный двор",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121179117,
+  "lat": 59.8860713,
+  "lon": 29.9412353,
+  "tags": {
+    "name": "Руины Морской беседки",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121183317,
+  "lat": 59.8797825,
+  "lon": 29.9260878,
+  "tags": {
+    "name": "Императорские дворцовые конюшни",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121185217,
+  "lat": 59.8801364,
+  "lon": 29.9238116,
+  "tags": {
+    "name": "Кофишенский дом",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121186017,
+  "lat": 59.8807178,
+  "lon": 29.9230538,
+  "tags": {
+    "name": "Готические дома",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8121210618,
+  "lat": 59.8878174,
+  "lon": 29.8916858,
+  "tags": {
+    "name": "Гранильная фабрика",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8151067117,
+  "lat": 59.9397165,
+  "lon": 30.3189681,
+  "tags": {
+    "name": "Картонная (падающая) стенка",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8157069134,
+  "lat": 59.6905665,
+  "lon": 30.4531678,
+  "tags": {
+    "name": "Каскад Вокзального пруда",
+    "tourism": "attraction",
+    "waterway": "weir"
+  }
+},
+{
+  "type": "node",
+  "id": 8161330530,
+  "lat": 59.9685948,
+  "lon": 30.4756695,
+  "tags": {
+    "name": "Бывший пороховой погреб",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8199707233,
+  "lat": 59.9156906,
+  "lon": 29.7681958,
+  "tags": {
+    "name": "Доходный дом",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8199707465,
+  "lat": 59.9094974,
+  "lon": 29.7427938,
+  "tags": {
+    "name": "Пергола и пристань",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8199708646,
+  "lat": 59.9093545,
+  "lon": 29.7475885,
+  "tags": {
+    "name": "Русская изба",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8199709131,
+  "lat": 59.9088842,
+  "lon": 29.7444831,
+  "tags": {
+    "name": "Ледник",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8199715517,
+  "lat": 59.9099845,
+  "lon": 29.7467669,
+  "tags": {
+    "name": "Кавалерский корпус",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8199718317,
+  "lat": 59.9100688,
+  "lon": 29.7595397,
+  "tags": {
+    "name": "Остатки крепости Петерштадт",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8199730821,
+  "lat": 59.9157805,
+  "lon": 29.7598981,
+  "tags": {
+    "name": "Оранжерея",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8199730822,
+  "lat": 59.9157122,
+  "lon": 29.7610785,
+  "tags": {
+    "name": "Нижние дома",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8199730918,
+  "lat": 59.9156625,
+  "lon": 29.7687449,
+  "tags": {
+    "name": "Дом Щукина",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8199730919,
+  "lat": 59.9142959,
+  "lon": 29.7694717,
+  "tags": {
+    "name": "Дом Мельникова",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8199730920,
+  "lat": 59.9152139,
+  "lon": 29.7758423,
+  "tags": {
+    "name": "Дом Елисеева",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8199743217,
+  "lat": 59.9150018,
+  "lon": 29.7731543,
+  "tags": {
+    "name": "Доходный дом Зингера",
+    "tourism": "attraction"
+  }
+}
+
+  ]
+}
+
