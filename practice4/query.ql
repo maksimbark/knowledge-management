@@ -4,6 +4,7 @@
 (
   node["tourism"="attraction"](area.searchArea);
   node["tourism"="museum"](area.searchArea);
+  node["tourism"="viewpoint"](area.searchArea);
 );
 
 
