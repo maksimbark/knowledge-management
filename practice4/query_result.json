@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.8 7d656e78",
   "osm3s": {
-    "timestamp_osm_base": "2020-12-15T20:28:02Z",
-    "timestamp_areas_base": "2020-12-15T19:26:03Z",
+    "timestamp_osm_base": "2020-12-15T20:44:02Z",
+    "timestamp_areas_base": "2020-12-15T20:33:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -65,6 +65,20 @@
 },
 {
   "type": "node",
+  "id": 300442494,
+  "lat": 59.8847855,
+  "lon": 29.9089434,
+  "tags": {
+    "name": "Большой каскад - Петергоф",
+    "name:de": "Große Kaskade",
+    "name:en": "Grande Cascade",
+    "name:es": "Gran cascada",
+    "name:fr": "Grande Cascade",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 302252549,
   "lat": 59.8689025,
   "lon": 30.3195512,
@@ -74,6 +88,15 @@
     "name": "Памятник Чернышевскому",
     "name:de": "Tschernyschewski-Denkmal",
     "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 305271293,
+  "lat": 59.6672990,
+  "lon": 30.4036948,
+  "tags": {
+    "tourism": "viewpoint"
   }
 },
 {
@@ -244,6 +267,22 @@
 },
 {
   "type": "node",
+  "id": 669936547,
+  "lat": 59.9442977,
+  "lon": 30.3072491,
+  "tags": {
+    "name": "Стрелка Васильевского острова",
+    "name:en": "The Strelka",
+    "name:fr": "Pointe de l'île Vassilievski",
+    "name:zh": "瓦西里岛",
+    "tourism": "viewpoint",
+    "wheelchair": "limited",
+    "wikidata": "Q2367636",
+    "wikipedia": "ru:Стрелка Васильевского острова"
+  }
+},
+{
+  "type": "node",
   "id": 694055515,
   "lat": 60.0255006,
   "lon": 29.6743107,
@@ -283,6 +322,18 @@
     "name": "Галерея Академии Художеств",
     "tourism": "museum",
     "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 812011824,
+  "lat": 59.9491949,
+  "lon": 30.3181620,
+  "tags": {
+    "name": "Невская панорама",
+    "name:zh": "涅瓦河景觀台",
+    "note": "excellent view on Sankt-Peterburg",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -514,6 +565,15 @@
 },
 {
   "type": "node",
+  "id": 1167148015,
+  "lat": 60.0403784,
+  "lon": 30.3108178,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 1186298549,
   "lat": 59.9213674,
   "lon": 30.3248528,
@@ -563,6 +623,25 @@
 },
 {
   "type": "node",
+  "id": 1196735569,
+  "lat": 59.6934731,
+  "lon": 30.4620727,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1219219844,
+  "lat": 59.6960036,
+  "lon": 30.4646129,
+  "tags": {
+    "name": "Долина реки Славянки с Пиль-Башней",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 1219219921,
   "lat": 59.6928925,
   "lon": 30.4644294,
@@ -608,6 +687,16 @@
     "start_date": "1808..1809",
     "tourism": "attraction",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1239576257,
+  "lat": 59.6945167,
+  "lon": 30.4673726,
+  "tags": {
+    "name": "Западная дальняя перспектива Белой Берёзы",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -748,6 +837,21 @@
 },
 {
   "type": "node",
+  "id": 1277058454,
+  "lat": 59.6972425,
+  "lon": 30.4696460,
+  "tags": {
+    "description": "Самое красивое место по мнению с официального сайта",
+    "direction": "25",
+    "name:fr": "le plus bel endroit",
+    "source": "Описание с официального сайта",
+    "tourism": "viewpoint",
+    "url": "http://web.archive.org/web/20140108220016/http://pavlovskmuseum.ru/park/park_plan/",
+    "website": "http://www.pavlovskmuseum.ru/about/park/plan/"
+  }
+},
+{
+  "type": "node",
   "id": 1295102291,
   "lat": 59.9276918,
   "lon": 30.2944376,
@@ -831,6 +935,15 @@
 },
 {
   "type": "node",
+  "id": 1351012658,
+  "lat": 59.6975688,
+  "lon": 30.1320144,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 1383043649,
   "lat": 59.9227783,
   "lon": 30.3848158,
@@ -879,6 +992,26 @@
 },
 {
   "type": "node",
+  "id": 1395656155,
+  "lat": 59.6836250,
+  "lon": 30.4533804,
+  "tags": {
+    "name": "На дворец, павильон Трёх граций и трельяжную лестницу",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1406921796,
+  "lat": 59.6861305,
+  "lon": 30.4492734,
+  "tags": {
+    "name": "На дворец и мост Кентавров",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 1421750016,
   "lat": 59.9577700,
   "lon": 30.3467548,
@@ -907,6 +1040,17 @@
     "phone": "+7 812 3461850",
     "tourism": "museum",
     "website": "http://www.photohismus.spb.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 1430706271,
+  "lat": 59.7002883,
+  "lon": 30.4642300,
+  "tags": {
+    "direction": "20",
+    "name": "Красная долина",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -977,6 +1121,17 @@
     "tourism": "museum",
     "website": "http://www.spbmuseum.ru/themuseum/museum_complex/blok_museum/",
     "wikidata": "Q3329024"
+  }
+},
+{
+  "type": "node",
+  "id": 1439053517,
+  "lat": 59.6875239,
+  "lon": 30.4582712,
+  "tags": {
+    "direction": "330",
+    "name": "Вид на Храм дружбы",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -1119,6 +1274,27 @@
 },
 {
   "type": "node",
+  "id": 1485023689,
+  "lat": 59.9145907,
+  "lon": 30.4054787,
+  "tags": {
+    "name": "Финляндский мост",
+    "name:fi": "Suomen rautatiesilta",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1485023693,
+  "lat": 59.9070959,
+  "lon": 30.4205283,
+  "tags": {
+    "name": "вид на набережную",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 1486061637,
   "lat": 59.9534635,
   "lon": 30.3142041,
@@ -1142,6 +1318,26 @@
 },
 {
   "type": "node",
+  "id": 1502812638,
+  "lat": 59.7730832,
+  "lon": 30.3316268,
+  "tags": {
+    "name": "Город сверху",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1502812640,
+  "lat": 59.7717198,
+  "lon": 30.3331046,
+  "tags": {
+    "name": "Юг города",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 1506933129,
   "lat": 59.7453924,
   "lon": 30.3898467,
@@ -1149,6 +1345,15 @@
     "historic": "memorial",
     "name": "110 стрелковому корпусу",
     "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1509196359,
+  "lat": 59.9526160,
+  "lon": 30.3147563,
+  "tags": {
+    "tourism": "viewpoint"
   }
 },
 {
@@ -1166,6 +1371,26 @@
 },
 {
   "type": "node",
+  "id": 1518859160,
+  "lat": 59.6927682,
+  "lon": 30.4633863,
+  "tags": {
+    "description": "Вид во все стороны",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1518859263,
+  "lat": 59.6936396,
+  "lon": 30.4634514,
+  "tags": {
+    "name": "Долина реки Славянки",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 1521311711,
   "lat": 59.9486788,
   "lon": 30.3135921,
@@ -1175,6 +1400,24 @@
     "name:en": "Trubetskoy Bastion Prison",
     "opening_hours": "Mo-Su 10:00-19:00",
     "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1523303856,
+  "lat": 59.6957659,
+  "lon": 30.1330431,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1523303859,
+  "lat": 59.6979931,
+  "lon": 30.1339259,
+  "tags": {
+    "tourism": "viewpoint"
   }
 },
 {
@@ -1210,6 +1453,25 @@
     "phone": "+7 812 3285402",
     "tourism": "museum",
     "website": "http://xn----dtbaibdbjqd4avhbm3d3d0h.xn--p1ai"
+  }
+},
+{
+  "type": "node",
+  "id": 1586975009,
+  "lat": 59.9165525,
+  "lon": 30.2970797,
+  "tags": {
+    "name": "Вид на дом Капустина",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1598866096,
+  "lat": 60.0416155,
+  "lon": 30.3103427,
+  "tags": {
+    "tourism": "viewpoint"
   }
 },
 {
@@ -1376,6 +1638,33 @@
 },
 {
   "type": "node",
+  "id": 1802070626,
+  "lat": 59.8893704,
+  "lon": 29.8984420,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1802070645,
+  "lat": 59.8894370,
+  "lon": 29.8984771,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1833242131,
+  "lat": 59.9390253,
+  "lon": 30.2986232,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 1833271775,
   "lat": 59.9439950,
   "lon": 30.3062658,
@@ -1414,6 +1703,15 @@
     "name": "Музей Сновидений Фрейда",
     "tourism": "museum",
     "wikidata": "Q1617464"
+  }
+},
+{
+  "type": "node",
+  "id": 1907120102,
+  "lat": 59.6896717,
+  "lon": 30.4595947,
+  "tags": {
+    "tourism": "viewpoint"
   }
 },
 {
@@ -1591,6 +1889,18 @@
 },
 {
   "type": "node",
+  "id": 2197612079,
+  "lat": 59.9207171,
+  "lon": 30.2987130,
+  "tags": {
+    "name": "Семимостье",
+    "name:en": "Seven Bridges",
+    "name:ru": "Семимостье",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 2282794448,
   "lat": 59.8529406,
   "lon": 30.1752835,
@@ -1601,12 +1911,42 @@
 },
 {
   "type": "node",
+  "id": 2290807216,
+  "lat": 59.8930952,
+  "lon": 30.4409221,
+  "tags": {
+    "name": "Набережная Невы",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 2290807265,
   "lat": 59.8939037,
   "lon": 30.4296375,
   "tags": {
     "name": "Памятник Ткачам",
     "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2333194439,
+  "lat": 60.1629660,
+  "lon": 29.8438099,
+  "tags": {
+    "source": "survey",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2349686162,
+  "lat": 59.9145787,
+  "lon": 29.7940012,
+  "tags": {
+    "name": "Старая дамба",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -1782,6 +2122,16 @@
 },
 {
   "type": "node",
+  "id": 2477341228,
+  "lat": 59.7124171,
+  "lon": 30.3963296,
+  "tags": {
+    "name": "мыс Звёздочка",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 2484334091,
   "lat": 59.9352702,
   "lon": 30.3390933,
@@ -1918,6 +2268,15 @@
 },
 {
   "type": "node",
+  "id": 2910190828,
+  "lat": 60.0514076,
+  "lon": 30.2972190,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 2937729921,
   "lat": 59.8803625,
   "lon": 29.9355295,
@@ -2023,6 +2382,27 @@
     "amenity": "bench",
     "name": "Хитрая скамейка",
     "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3140979976,
+  "lat": 59.8679599,
+  "lon": 30.4730370,
+  "tags": {
+    "name": "Нева",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3218571890,
+  "lat": 59.7014328,
+  "lon": 30.4646745,
+  "tags": {
+    "direction": "40",
+    "name": "на склон к Бельведерной аллее",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -2820,6 +3200,16 @@
 },
 {
   "type": "node",
+  "id": 3595780352,
+  "lat": 59.8486869,
+  "lon": 29.8799394,
+  "tags": {
+    "name": "дворец Бельведер ",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 3652849699,
   "lat": 60.0615117,
   "lon": 30.3188928,
@@ -2876,6 +3266,19 @@
 },
 {
   "type": "node",
+  "id": 3735242356,
+  "lat": 59.7179374,
+  "lon": 30.3994298,
+  "tags": {
+    "check_date": "2015-09-07",
+    "description": "102 м над уровнем моря ;)",
+    "name": "Певческая башня",
+    "source": "survey",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 3735242358,
   "lat": 59.7183017,
   "lon": 30.3991204,
@@ -2898,6 +3301,16 @@
     "opening_hours": "Mo-Tu 10:00-18:00; Th-Su 10:00-18:00",
     "operator": "ГМЗ \"Царское Село\"",
     "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3768499136,
+  "lat": 59.9279399,
+  "lon": 30.2904266,
+  "tags": {
+    "name": "Арка Новой Голландии",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -2990,6 +3403,26 @@
 },
 {
   "type": "node",
+  "id": 3966917361,
+  "lat": 59.6898263,
+  "lon": 30.4558668,
+  "tags": {
+    "name": "Вид с площадки «Чёрной Цереры»",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3970114272,
+  "lat": 59.7749854,
+  "lon": 30.3230298,
+  "tags": {
+    "name": "Вид на юг города",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 3999825271,
   "lat": 59.9498594,
   "lon": 30.3594785,
@@ -3001,6 +3434,17 @@
     "name:en": "Poltava Warship",
     "start_date": "2015-03-06",
     "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4088197040,
+  "lat": 59.9370867,
+  "lon": 30.3016537,
+  "tags": {
+    "description": "Вид на мосты",
+    "description:es": "Vista panorámica",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -3139,6 +3583,15 @@
 },
 {
   "type": "node",
+  "id": 4210986619,
+  "lat": 59.9941895,
+  "lon": 29.7056227,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 4217771773,
   "lat": 59.9485382,
   "lon": 30.3165557,
@@ -3192,6 +3645,144 @@
 },
 {
   "type": "node",
+  "id": 4271175480,
+  "lat": 59.9410186,
+  "lon": 30.3087045,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4271176767,
+  "lat": 59.9408447,
+  "lon": 30.3082398,
+  "tags": {
+    "name": "Дворцовый мост",
+    "name:zh": "冬宮橋",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4271179317,
+  "lat": 59.9413394,
+  "lon": 30.3075003,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4271179826,
+  "lat": 59.9415137,
+  "lon": 30.3079678,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4275052092,
+  "lat": 59.9427554,
+  "lon": 30.4018246,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4275133792,
+  "lat": 59.9498707,
+  "lon": 30.3636446,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4275133991,
+  "lat": 59.9493955,
+  "lon": 30.2876850,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4275133992,
+  "lat": 59.9425332,
+  "lon": 30.4017638,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4275133993,
+  "lat": 59.9450034,
+  "lon": 30.3241611,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4275169989,
+  "lat": 59.9536000,
+  "lon": 30.3359610,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4275170090,
+  "lat": 59.9534573,
+  "lon": 30.4066751,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4275170091,
+  "lat": 59.9512309,
+  "lon": 30.4063688,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4275170092,
+  "lat": 59.9463448,
+  "lon": 30.4054294,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4275170093,
+  "lat": 59.9437838,
+  "lon": 30.3200083,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4275172789,
+  "lat": 59.9426393,
+  "lon": 30.3164448,
+  "tags": {
+    "name": "Обзор ангела",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 4314055602,
   "lat": 59.6882313,
   "lon": 30.4557592,
@@ -3202,6 +3793,15 @@
     "tourism": "attraction",
     "wikidata": "Q4500794",
     "wikipedia": "ru:Храм Дружбы (Павловск)"
+  }
+},
+{
+  "type": "node",
+  "id": 4329332291,
+  "lat": 59.9434142,
+  "lon": 30.4053204,
+  "tags": {
+    "tourism": "viewpoint"
   }
 },
 {
@@ -3404,6 +4004,15 @@
 },
 {
   "type": "node",
+  "id": 4370113243,
+  "lat": 59.8678241,
+  "lon": 30.3234751,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 4377032712,
   "lat": 59.9493442,
   "lon": 30.2939800,
@@ -3432,6 +4041,25 @@
 },
 {
   "type": "node",
+  "id": 4379570362,
+  "lat": 59.9487833,
+  "lon": 30.3272677,
+  "tags": {
+    "name:zh": "聖三一橋",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4379570363,
+  "lat": 59.9499321,
+  "lon": 30.3211882,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 4382955995,
   "lat": 59.9127435,
   "lon": 30.3479618,
@@ -3456,6 +4084,24 @@
 },
 {
   "type": "node",
+  "id": 4417333894,
+  "lat": 59.8131855,
+  "lon": 30.2400872,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4417343491,
+  "lat": 59.8108156,
+  "lon": 30.2972093,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 4417542189,
   "lat": 59.8040286,
   "lon": 30.6048324,
@@ -3463,6 +4109,17 @@
     "name": "Александр Невский и Ижорская земля",
     "name:ru": "Александр Невский и Ижорская земля",
     "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4421349139,
+  "lat": 59.7028036,
+  "lon": 30.1230414,
+  "tags": {
+    "highway": "rest_area",
+    "name": "Вид на Дудергофское озеро",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -3525,6 +4182,29 @@
 },
 {
   "type": "node",
+  "id": 4449764543,
+  "lat": 59.6963322,
+  "lon": 30.4551794,
+  "tags": {
+    "description": "Вид во все стороны",
+    "historic": "yes",
+    "int_name": "Le nouveau chalet",
+    "locality": "place",
+    "name": "Новое шале",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4462773433,
+  "lat": 60.0916624,
+  "lon": 29.9523433,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 4486774693,
   "lat": 59.9560304,
   "lon": 30.3148066,
@@ -3534,6 +4214,16 @@
     "name": "iLocked",
     "tourism": "attraction",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4513740290,
+  "lat": 59.9135283,
+  "lon": 30.3117870,
+  "tags": {
+    "description": "Двор №360",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -3690,6 +4380,16 @@
 },
 {
   "type": "node",
+  "id": 4790156039,
+  "lat": 59.8889915,
+  "lon": 29.8873500,
+  "tags": {
+    "name": "Обзор на город",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 4798307372,
   "lat": 60.0597882,
   "lon": 30.2930685,
@@ -3773,6 +4473,19 @@
     "tourism": "museum",
     "website": "https://big-funny.com/v-sankt-peterburge/vnutri-cheloveka",
     "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4927419513,
+  "lat": 59.6843120,
+  "lon": 30.4532710,
+  "tags": {
+    "name": "Трельяж",
+    "note": "Вид с места арки утраченного сооружения на Мариентальский пруд",
+    "ref:okn": "781510387490026",
+    "start_date": "1792..1793",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -4081,6 +4794,20 @@
 },
 {
   "type": "node",
+  "id": 5263894121,
+  "lat": 59.9220086,
+  "lon": 30.3554773,
+  "tags": {
+    "fee": "yes",
+    "name": "обзорная площадка «Крыша»",
+    "name:en": "Roof observation deck",
+    "name:ru": "обзорная площадка «Крыша»",
+    "tourism": "viewpoint",
+    "website": "https://vk.com/roofwithview"
+  }
+},
+{
+  "type": "node",
   "id": 5324730821,
   "lat": 59.8790696,
   "lon": 30.4354423,
@@ -4141,6 +4868,24 @@
     "tourism": "attraction",
     "wikidata": "Q4155396",
     "wikipedia": "ru:Дача Дурново"
+  }
+},
+{
+  "type": "node",
+  "id": 5468336273,
+  "lat": 59.9827388,
+  "lon": 29.7611933,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5468341964,
+  "lat": 59.9949977,
+  "lon": 29.7886232,
+  "tags": {
+    "tourism": "viewpoint"
   }
 },
 {
@@ -4410,6 +5155,37 @@
 },
 {
   "type": "node",
+  "id": 5880459416,
+  "lat": 60.0872562,
+  "lon": 29.9281952,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5880459417,
+  "lat": 60.0900725,
+  "lon": 29.9205118,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5922815917,
+  "lat": 59.9387520,
+  "lon": 30.3059632,
+  "tags": {
+    "description": "Петропавловский собор сквозь крылья Дворцового моста",
+    "description:en": "Peter and Paul Cathedral through the wings of the Palace Bridge",
+    "description:es": "Catedral de Pablo y Pedro",
+    "direction": "25",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 5934862149,
   "lat": 59.9291262,
   "lon": 30.2701755,
@@ -4611,6 +5387,17 @@
 },
 {
   "type": "node",
+  "id": 6208149784,
+  "lat": 59.9262276,
+  "lon": 30.3424694,
+  "tags": {
+    "name": "Пять углов",
+    "tourism": "viewpoint",
+    "wikidata": "Q4386102"
+  }
+},
+{
+  "type": "node",
   "id": 6216327484,
   "lat": 59.9472251,
   "lon": 30.3388289,
@@ -4713,6 +5500,15 @@
 },
 {
   "type": "node",
+  "id": 6367683394,
+  "lat": 59.9238544,
+  "lon": 30.2402597,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 6400961110,
   "lat": 59.9228813,
   "lon": 30.3369749,
@@ -4738,6 +5534,15 @@
 },
 {
   "type": "node",
+  "id": 6405282189,
+  "lat": 59.9314440,
+  "lon": 30.2829192,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 6418878186,
   "lat": 59.7157835,
   "lon": 30.3963517,
@@ -4758,6 +5563,15 @@
     "name": "Фреска из Италии",
     "name:en": "Fresco from Italy",
     "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6448379451,
+  "lat": 59.9893746,
+  "lon": 29.7789163,
+  "tags": {
+    "tourism": "viewpoint"
   }
 },
 {
@@ -4806,6 +5620,15 @@
     "name:ru": "Дом архитектора",
     "opening_hours": "Sa 11:00-12:00; Su 12:00-13:00",
     "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6482900274,
+  "lat": 59.9217284,
+  "lon": 30.2488886,
+  "tags": {
+    "tourism": "viewpoint"
   }
 },
 {
@@ -4991,6 +5814,37 @@
 },
 {
   "type": "node",
+  "id": 6697048185,
+  "lat": 60.1049420,
+  "lon": 29.9630691,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6719049707,
+  "lat": 60.1177614,
+  "lon": 30.0106707,
+  "tags": {
+    "description": "Вид на болота и Сестрорецк на горизонте",
+    "direction": "140-290",
+    "name": "Сестрорецкое болото",
+    "name:en": "Wetlands of Sestroretsk",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6744608491,
+  "lat": 59.9921907,
+  "lon": 29.7699436,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 6759802109,
   "lat": 59.8761528,
   "lon": 30.2534492,
@@ -5011,12 +5865,32 @@
 },
 {
   "type": "node",
+  "id": 6763207185,
+  "lat": 59.8631144,
+  "lon": 30.1073570,
+  "tags": {
+    "name": "Вид на залив",
+    "name:en": "Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 6775279098,
   "lat": 59.7466545,
   "lon": 30.6113977,
   "tags": {
     "name": "Финский лось",
     "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6830995547,
+  "lat": 59.9727851,
+  "lon": 30.2101912,
+  "tags": {
+    "tourism": "viewpoint"
   }
 },
 {
@@ -5139,6 +6013,16 @@
 },
 {
   "type": "node",
+  "id": 7080782987,
+  "lat": 59.9384585,
+  "lon": 30.3323155,
+  "tags": {
+    "name:ja": "ライオン像",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 7112611685,
   "lat": 59.9330078,
   "lon": 30.3152266,
@@ -5178,6 +6062,27 @@
 },
 {
   "type": "node",
+  "id": 7315215865,
+  "lat": 60.1254437,
+  "lon": 29.9991641,
+  "tags": {
+    "direction": "25-110",
+    "name": "Сестрорецкое болото",
+    "name:en": "Wetlands of Sestroretsk",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7357684685,
+  "lat": 59.8941831,
+  "lon": 30.1978636,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 7379721890,
   "lat": 59.9760695,
   "lon": 30.4949058,
@@ -5212,6 +6117,15 @@
     "phone": "+7 911 7537569",
     "tourism": "museum",
     "website": "https://rmseasons.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7433235023,
+  "lat": 59.6657622,
+  "lon": 30.4134366,
+  "tags": {
+    "tourism": "viewpoint"
   }
 },
 {
@@ -5433,6 +6347,15 @@
 },
 {
   "type": "node",
+  "id": 7661678528,
+  "lat": 59.9284808,
+  "lon": 30.3120382,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 7677808945,
   "lat": 59.9850534,
   "lon": 30.3042881,
@@ -5586,6 +6509,16 @@
   "tags": {
     "name": "Оранжерея",
     "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7736417445,
+  "lat": 59.8946768,
+  "lon": 29.8431131,
+  "tags": {
+    "direction": "NE",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -5945,6 +6878,17 @@
 },
 {
   "type": "node",
+  "id": 7779985085,
+  "lat": 60.1216485,
+  "lon": 30.0117828,
+  "tags": {
+    "name": "Сестрорецкое болото",
+    "name:en": "Wetlands of Sestroretsk",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 7780657985,
   "lat": 59.9235621,
   "lon": 30.3084901,
@@ -6074,6 +7018,37 @@
   "tags": {
     "name": "Пасечник",
     "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7856821765,
+  "lat": 59.6964049,
+  "lon": 30.4464411,
+  "tags": {
+    "description": "Прекрасный вид на Тярлевскую просеку",
+    "name": "Тярлевская просека",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7865327086,
+  "lat": 60.1908960,
+  "lon": 29.5384980,
+  "tags": {
+    "name": "Вид на залив.",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7865341985,
+  "lat": 60.1998776,
+  "lon": 29.5698306,
+  "tags": {
+    "name": "Вид на залив с песчаного склона.",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -6269,6 +7244,16 @@
 },
 {
   "type": "node",
+  "id": 7944872286,
+  "lat": 60.0234619,
+  "lon": 29.6736678,
+  "tags": {
+    "name": "Орнитологическая вышка",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 7944899385,
   "lat": 60.0235448,
   "lon": 29.6737195,
@@ -6459,6 +7444,18 @@
 },
 {
   "type": "node",
+  "id": 8006285506,
+  "lat": 59.6914259,
+  "lon": 30.4320651,
+  "tags": {
+    "description": "Название дано по существовавшему здесь в XIX веке межевому знаку",
+    "direction": "0-180",
+    "name": "Царскосельский столб",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
   "id": 8017030585,
   "lat": 60.1907289,
   "lon": 29.6622696,
@@ -6478,6 +7475,28 @@
     "operator": "ГБНОУ Дворец учащейся молодежи Санкт-Петербурга",
     "tourism": "museum",
     "website": "http://profmuseum.spb.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 8044871174,
+  "lat": 59.6944823,
+  "lon": 30.4469481,
+  "tags": {
+    "description": "Прекрасный вид на Нижний и Верхний Круглозальные пруды",
+    "name": "Круглозальные пруды",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8044871175,
+  "lat": 59.6957383,
+  "lon": 30.4501158,
+  "tags": {
+    "description": "Прекрасный вид на Нижний Круглозальный и Большой Верхний Новошалейный пруды",
+    "name": "Круглозальный и Новошалейный пруды",
+    "tourism": "viewpoint"
   }
 },
 {
@@ -6785,6 +7804,65 @@
   "tags": {
     "name": "Гребная база СПбГМТУ",
     "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8075966201,
+  "lat": 59.9937920,
+  "lon": 29.7437450,
+  "tags": {
+    "direction": "SW-SE",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8081481970,
+  "lat": 59.6974796,
+  "lon": 30.4592290,
+  "tags": {
+    "description": "Классический вид на остров, где был трельяж со статуей Амура",
+    "name": "Венерин пруд с островом Любви",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8081481971,
+  "lat": 59.6979042,
+  "lon": 30.4575182,
+  "tags": {
+    "description": "Классический вид на Большой Краснодолинный пруд",
+    "name": "Большой Краснодолинный пруд",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8093157062,
+  "lat": 59.8630445,
+  "lon": 29.9999606,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8094462197,
+  "lat": 59.7020264,
+  "lon": 30.1073429,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8094497524,
+  "lat": 59.7048055,
+  "lon": 30.1071769,
+  "tags": {
+    "tourism": "viewpoint"
   }
 },
 {
